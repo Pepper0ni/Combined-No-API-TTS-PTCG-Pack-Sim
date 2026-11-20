@@ -1,0 +1,912 @@
+art={"1890974789081480588/5C9743F3648E1C29DE48254EB5863DC4724C01C7",
+ "1890974789081485337/3446EB57CE25671A7BEE11D9A9BCA0A139466F42",
+ "1890974789081514409/76835A2CA985785D218BF34D4F76F477373A30A3",
+ "1890974789081510379/DA1A853C38E512D2A626D84F63EF388D0B5B33C6",
+}
+setName="Legends Awakened"
+DeckID=4253
+date="20080801"
+setID="dp6"
+dropSlots=[[{
+--1 U
+  {cards={{'46','82'},{'129','137'},{'92','96'}},num=3,size=46},
+--2 lvx
+  {cards={{'140','146'}},num=0,size=7},
+--3 RH
+  {cards={{'1','17'}},num=0,size=17},
+--4 R
+  {cards={{'18','45'}},num=0,size=28},
+--5 rev
+  {cards={{'1','139'}},num=1,size=139},
+--6 C
+  {cards={{'83','128'},'138','139'},num=5,size=48},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/12},--lvx
+  {slot=3,remaining=true,odds=1/3},--RH
+  {slot=4}--R
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Deoxys Normal Forme",
+ GMN="00386000",
+ typ="55",
+ rar="RH"
+},
+["2"]={
+ name="Dragonite",
+ GMN="00149000",
+ typ="121",
+ rar="RH"
+},
+["3"]={
+ name="Froslass",
+ GMN="00362500",
+ typ="33",
+ rar="RH"
+},
+["4"]={
+ name="Giratina",
+ GMN="00487000",
+ typ="55",
+ rar="RH"
+},
+["5"]={
+ name="Gliscor",
+ GMN="00207500",
+ typ="66",
+ rar="RH"
+},
+["6"]={
+ name="Heatran",
+ GMN="00485000",
+ typ="22",
+ rar="RH"
+},
+["7"]={
+ name="Kingdra",
+ GMN="00117500",
+ typ="33",
+ rar="RH"
+},
+["8"]={
+ name="Luxray",
+ GMN="00405000",
+ typ="44",
+ rar="RH"
+},
+["9"]={
+ name="Mamoswine",
+ GMN="00221500",
+ typ="33",
+ rar="RH"
+},
+["10"]={
+ name="Metagross",
+ GMN="00376000",
+ typ="88",
+ rar="RH"
+},
+["11"]={
+ name="Mewtwo",
+ GMN="00150000",
+ typ="55",
+ rar="RH"
+},
+["12"]={
+ name="Politoed",
+ GMN="00062500",
+ typ="33",
+ rar="RH"
+},
+["13"]={
+ name="Probopass",
+ GMN="00299500",
+ typ="66",
+ rar="RH"
+},
+["14"]={
+ name="Rayquaza",
+ GMN="00384000",
+ typ="121",
+ rar="RH"
+},
+["15"]={
+ name="Regigigas",
+ GMN="00486000",
+ typ="121",
+ rar="RH"
+},
+["16"]={
+ name="Spiritomb",
+ GMN="00442000",
+ typ="55",
+ rar="RH"
+},
+["17"]={
+ name="Yanmega",
+ GMN="00193500",
+ typ="11",
+ rar="RH"
+},
+["18"]={
+ name="Armaldo",
+ GMN="00348000",
+ typ="66",
+ rar="R"
+},
+["19"]={
+ name="Azelf",
+ GMN="00482000",
+ typ="55",
+ rar="R"
+},
+["20"]={
+ name="Bellossom",
+ GMN="00045500",
+ typ="11",
+ rar="R"
+},
+["21"]={
+ name="Cradily",
+ GMN="00346000",
+ typ="11",
+ rar="R"
+},
+["22"]={
+ name="Crawdaunt",
+ GMN="00342000",
+ typ="33",
+ rar="R"
+},
+["23"]={
+ name="Delcatty",
+ GMN="00301000",
+ typ="121",
+ rar="R"
+},
+["24"]={
+ name="Deoxys Attack Forme",
+ GMN="00386000",
+ typ="55",
+ rar="R"
+},
+["25"]={
+ name="Deoxys Defense Forme",
+ GMN="00386000",
+ typ="55",
+ rar="R"
+},
+["26"]={
+ name="Deoxys Speed Forme",
+ GMN="00386000",
+ typ="55",
+ rar="R"
+},
+["27"]={
+ name="Ditto",
+ GMN="00132000",
+ typ="121",
+ rar="R"
+},
+["28"]={
+ name="Forretress",
+ GMN="00205000",
+ typ="88",
+ rar="R"
+},
+["29"]={
+ name="Groudon",
+ GMN="00383000",
+ typ="66",
+ rar="R"
+},
+["30"]={
+ name="Heatran",
+ GMN="00485000",
+ typ="88",
+ rar="R"
+},
+["31"]={
+ name="Jirachi",
+ GMN="00385000",
+ typ="88",
+ rar="R"
+},
+["32"]={
+ name="Kyogre",
+ GMN="00382000",
+ typ="33",
+ rar="R"
+},
+["33"]={
+ name="Lopunny",
+ GMN="00428000",
+ typ="121",
+ rar="R"
+},
+["34"]={
+ name="Mesprit",
+ GMN="00481000",
+ typ="55",
+ rar="R"
+},
+["35"]={
+ name="Poliwrath",
+ GMN="00062000",
+ typ="33",
+ rar="R"
+},
+["36"]={
+ name="Regice",
+ GMN="00378000",
+ typ="33",
+ rar="R"
+},
+["37"]={
+ name="Regigigas",
+ GMN="00486000",
+ typ="121",
+ rar="R"
+},
+["38"]={
+ name="Regirock",
+ GMN="00377000",
+ typ="66",
+ rar="R"
+},
+["39"]={
+ name="Registeel",
+ GMN="00379000",
+ typ="88",
+ rar="R"
+},
+["40"]={
+ name="Shedinja",
+ GMN="00292000",
+ typ="11",
+ rar="R"
+},
+["41"]={
+ name="Torkoal",
+ GMN="00324000",
+ typ="22",
+ rar="R"
+},
+["42"]={
+ name="Unown [​​​​​​​​​​​​​​!]",
+ GMN="00201000",
+ typ="55",
+ rar="R"
+},
+["43"]={
+ name="Uxie",
+ GMN="00480000",
+ typ="55",
+ rar="R"
+},
+["44"]={
+ name="Victreebel",
+ GMN="00071000",
+ typ="11",
+ rar="R"
+},
+["45"]={
+ name="Vileplume",
+ GMN="00045000",
+ typ="11",
+ rar="R"
+},
+["46"]={
+ name="Anorith",
+ GMN="00347000",
+ typ="66",
+ rar="U"
+},
+["47"]={
+ name="Camerupt",
+ GMN="00323000",
+ typ="22",
+ rar="U"
+},
+["48"]={
+ name="Castform",
+ GMN="00351000",
+ typ="121",
+ rar="U"
+},
+["49"]={
+ name="Castform Rain Form",
+ GMN="00351000",
+ typ="33",
+ rar="U"
+},
+["50"]={
+ name="Castform Snow-Cloud Form",
+ GMN="00351000",
+ typ="33",
+ rar="U"
+},
+["51"]={
+ name="Castform Sunny Form",
+ GMN="00351000",
+ typ="22",
+ rar="U"
+},
+["52"]={
+ name="Dragonair",
+ GMN="00148000",
+ typ="121",
+ rar="U"
+},
+["53"]={
+ name="Drifblim",
+ GMN="00426000",
+ typ="55",
+ rar="U"
+},
+["54"]={
+ name="Exeggutor",
+ GMN="00103000",
+ typ="55",
+ rar="U"
+},
+["55"]={
+ name="Gliscor",
+ GMN="00207500",
+ typ="66",
+ rar="U"
+},
+["56"]={
+ name="Grumpig",
+ GMN="00326000",
+ typ="55",
+ rar="U"
+},
+["57"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="22",
+ rar="U"
+},
+["58"]={
+ name="Lanturn",
+ GMN="00171000",
+ typ="33",
+ rar="U"
+},
+["59"]={
+ name="Lanturn",
+ GMN="00171000",
+ typ="44",
+ rar="U"
+},
+["60"]={
+ name="Ledian",
+ GMN="00166000",
+ typ="11",
+ rar="U"
+},
+["61"]={
+ name="Lucario",
+ GMN="00448000",
+ typ="66",
+ rar="U"
+},
+["62"]={
+ name="Luxio",
+ GMN="00404000",
+ typ="44",
+ rar="U"
+},
+["63"]={
+ name="Marowak",
+ GMN="00105000",
+ typ="66",
+ rar="U"
+},
+["64"]={
+ name="Metang",
+ GMN="00375000",
+ typ="88",
+ rar="U"
+},
+["65"]={
+ name="Metang",
+ GMN="00375000",
+ typ="88",
+ rar="U"
+},
+["66"]={
+ name="Mightyena",
+ GMN="00262000",
+ typ="77",
+ rar="U"
+},
+["67"]={
+ name="Ninjask",
+ GMN="00291000",
+ typ="11",
+ rar="U"
+},
+["68"]={
+ name="Persian",
+ GMN="00053000",
+ typ="121",
+ rar="U"
+},
+["69"]={
+ name="Piloswine",
+ GMN="00221000",
+ typ="33",
+ rar="U"
+},
+["70"]={
+ name="Seadra",
+ GMN="00117000",
+ typ="33",
+ rar="U"
+},
+["71"]={
+ name="Starmie",
+ GMN="00121000",
+ typ="33",
+ rar="U"
+},
+["72"]={
+ name="Swalot",
+ GMN="00317000",
+ typ="55",
+ rar="U"
+},
+["73"]={
+ name="Swellow",
+ GMN="00277000",
+ typ="121",
+ rar="U"
+},
+["74"]={
+ name="Tauros",
+ GMN="00128000",
+ typ="121",
+ rar="U"
+},
+["75"]={
+ name="Tentacruel",
+ GMN="00073000",
+ typ="33",
+ rar="U"
+},
+["76"]={
+ name="Unown [​​​​​​​​​​​​​​J]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["77"]={
+ name="Unown [​​​​​​​​​​​​​​R]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["78"]={
+ name="Unown [​​​​​​​​​​​​​​U]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["79"]={
+ name="Unown [​​​​​​​​​​​​​​V]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["80"]={
+ name="Unown [​​​​​​​​​​​​​​W]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["81"]={
+ name="Unown [​​​​​​​​​​​​​​Y]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["82"]={
+ name="Unown [​​​​​​​​​​​​​​?]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["83"]={
+ name="Beldum",
+ GMN="00374000",
+ typ="88",
+ rar="C"
+},
+["84"]={
+ name="Beldum",
+ GMN="00374000",
+ typ="88",
+ rar="C"
+},
+["85"]={
+ name="Bellsprout",
+ GMN="00069000",
+ typ="11",
+ rar="C"
+},
+["86"]={
+ name="Buneary",
+ GMN="00427000",
+ typ="121",
+ rar="C"
+},
+["87"]={
+ name="Chinchou",
+ GMN="00170000",
+ typ="33",
+ rar="C"
+},
+["88"]={
+ name="Chinchou",
+ GMN="00170000",
+ typ="44",
+ rar="C"
+},
+["89"]={
+ name="Corphish",
+ GMN="00341000",
+ typ="33",
+ rar="C"
+},
+["90"]={
+ name="Cubone",
+ GMN="00104000",
+ typ="66",
+ rar="C"
+},
+["91"]={
+ name="Dratini",
+ GMN="00147000",
+ typ="121",
+ rar="C"
+},
+["92"]={
+ name="Drifloon",
+ GMN="00425000",
+ typ="55",
+ rar="C"
+},
+["93"]={
+ name="Exeggcute",
+ GMN="00102000",
+ typ="55",
+ rar="C"
+},
+["94"]={
+ name="Gligar",
+ GMN="00207000",
+ typ="66",
+ rar="C"
+},
+["95"]={
+ name="Gligar",
+ GMN="00207000",
+ typ="66",
+ rar="C"
+},
+["96"]={
+ name="Gloom",
+ GMN="00044000",
+ typ="11",
+ rar="C"
+},
+["97"]={
+ name="Gloom",
+ GMN="00044000",
+ typ="55",
+ rar="C"
+},
+["98"]={
+ name="Gulpin",
+ GMN="00316000",
+ typ="55",
+ rar="C"
+},
+["99"]={
+ name="Hitmonchan",
+ GMN="00107000",
+ typ="66",
+ rar="C"
+},
+["100"]={
+ name="Hitmonlee",
+ GMN="00106000",
+ typ="66",
+ rar="C"
+},
+["101"]={
+ name="Hitmontop",
+ GMN="00107500",
+ typ="66",
+ rar="C"
+},
+["102"]={
+ name="Horsea",
+ GMN="00116000",
+ typ="33",
+ rar="C"
+},
+["103"]={
+ name="Houndour",
+ GMN="00228000",
+ typ="77",
+ rar="C"
+},
+["104"]={
+ name="Ledyba",
+ GMN="00165000",
+ typ="11",
+ rar="C"
+},
+["105"]={
+ name="Lileep",
+ GMN="00345000",
+ typ="11",
+ rar="C"
+},
+["106"]={
+ name="Meowth",
+ GMN="00052000",
+ typ="121",
+ rar="C"
+},
+["107"]={
+ name="Misdreavus",
+ GMN="00200000",
+ typ="55",
+ rar="C"
+},
+["108"]={
+ name="Nincada",
+ GMN="00290000",
+ typ="11",
+ rar="C"
+},
+["109"]={
+ name="Nosepass",
+ GMN="00299000",
+ typ="66",
+ rar="C"
+},
+["110"]={
+ name="Numel",
+ GMN="00322000",
+ typ="22",
+ rar="C"
+},
+["111"]={
+ name="Oddish",
+ GMN="00043000",
+ typ="11",
+ rar="C"
+},
+["112"]={
+ name="Oddish",
+ GMN="00043000",
+ typ="55",
+ rar="C"
+},
+["113"]={
+ name="Pineco",
+ GMN="00204000",
+ typ="11",
+ rar="C"
+},
+["114"]={
+ name="Poliwag",
+ GMN="00060000",
+ typ="33",
+ rar="C"
+},
+["115"]={
+ name="Poliwhirl",
+ GMN="00061000",
+ typ="33",
+ rar="C"
+},
+["116"]={
+ name="Poochyena",
+ GMN="00261000",
+ typ="77",
+ rar="C"
+},
+["117"]={
+ name="Riolu",
+ GMN="00447000",
+ typ="66",
+ rar="C"
+},
+["118"]={
+ name="Shinx",
+ GMN="00403000",
+ typ="44",
+ rar="C"
+},
+["119"]={
+ name="Skitty",
+ GMN="00300000",
+ typ="121",
+ rar="C"
+},
+["120"]={
+ name="Sneasel",
+ GMN="00215000",
+ typ="77",
+ rar="C"
+},
+["121"]={
+ name="Spoink",
+ GMN="00325000",
+ typ="55",
+ rar="C"
+},
+["122"]={
+ name="Staryu",
+ GMN="00120000",
+ typ="33",
+ rar="C"
+},
+["123"]={
+ name="Swinub",
+ GMN="00220000",
+ typ="33",
+ rar="C"
+},
+["124"]={
+ name="Taillow",
+ GMN="00276000",
+ typ="121",
+ rar="C"
+},
+["125"]={
+ name="Tentacool",
+ GMN="00072000",
+ typ="33",
+ rar="C"
+},
+["126"]={
+ name="Tyrogue",
+ GMN="00105500",
+ typ="66",
+ rar="C"
+},
+["127"]={
+ name="Weepinbell",
+ GMN="00070000",
+ typ="11",
+ rar="C"
+},
+["128"]={
+ name="Yanma",
+ GMN="00193000",
+ typ="11",
+ rar="C"
+},
+["129"]={
+ name="Bubble Coat",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["130"]={
+ name="Buck's Training",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["131"]={
+ name="Cynthia's Feelings",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["132"]={
+ name="Energy Pickup",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["133"]={
+ name="Poké Radar",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["134"]={
+ name="Snowpoint Temple",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["135"]={
+ name="Stark Mountain",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["136"]={
+ name="Technical Machine TS-1",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["137"]={
+ name="Technical Machine TS-2",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["138"]={
+ name="Claw Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["139"]={
+ name="Root Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["140"]={
+ name="Azelf LV.X",
+ GMN="00482001",
+ typ="55",
+ rar="RHLVX"
+},
+["141"]={
+ name="Gliscor LV.X",
+ GMN="00207501",
+ typ="66",
+ rar="RHLVX"
+},
+["142"]={
+ name="Magnezone LV.X",
+ GMN="00082301",
+ typ="88",
+ rar="RHLVX"
+},
+["143"]={
+ name="Mesprit LV.X",
+ GMN="00481001",
+ typ="55",
+ rar="RHLVX"
+},
+["144"]={
+ name="Mewtwo LV.X",
+ GMN="00150001",
+ typ="55",
+ rar="RHLVX"
+},
+["145"]={
+ name="Rhyperior LV.X",
+ GMN="00112301",
+ typ="66",
+ rar="RHLVX"
+},
+["146"]={
+ name="Uxie LV.X",
+ GMN="00480001",
+ typ="55",
+ rar="RHLVX"
+}}
+]]
+
+energyString="energy={}"
+

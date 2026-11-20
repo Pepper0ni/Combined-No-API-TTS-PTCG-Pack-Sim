@@ -1,0 +1,65 @@
+setName="Trainer Kit EX Minun"
+DeckID=3105
+date="20060301"
+setID="tk2b"
+cardData={["1"]={
+ name="Arcanine",
+ GMN="00059000",
+ typ="22"
+},
+["2"]={
+ name="Charmander",
+ GMN="00004000",
+ typ="22"
+},
+["3"]={
+ name="Charmeleon",
+ GMN="00005000",
+ typ="22",
+ rar="U"
+},
+["4"]={
+ name="Growlithe",
+ GMN="00058000",
+ typ="22"
+},
+["5"]={
+ name="Mareep",
+ GMN="00179000",
+ typ="44"
+},
+["6"]={
+ name="Minun",
+ GMN="00312000",
+ typ="44"
+},
+["7"]={
+ name="Vulpix",
+ GMN="00037000",
+ typ="22"
+},
+["8"]={
+ name="Celio's Network",
+ GMN="40000000",
+ typ="500"
+},
+["9"]={
+ name="Energy Search",
+ GMN="30000000",
+ typ="500"
+},
+["10"]={
+ name="Potion",
+ GMN="30000000",
+ typ="500"
+},
+["11"]={
+ name="Fire Energy",
+ GMN="90000000",
+ typ="500"
+},
+["12"]={
+ name="Lightning Energy",
+ GMN="90000000",
+ typ="500"
+}}

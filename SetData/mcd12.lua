@@ -1,0 +1,65 @@
+setName="McDonald's Collection 2012"
+DeckID=6259
+date="20120615"
+setID="mcd12"
+cardData={["1"]={
+ name="Servine",
+ GMN="00496000",
+ typ="11"
+},
+["2"]={
+ name="Pansage",
+ GMN="00511000",
+ typ="11"
+},
+["3"]={
+ name="Dwebble",
+ GMN="00557000",
+ typ="11"
+},
+["4"]={
+ name="Pignite",
+ GMN="00499000",
+ typ="22"
+},
+["5"]={
+ name="Dewott",
+ GMN="00502000",
+ typ="33"
+},
+["6"]={
+ name="Emolga",
+ GMN="00587000",
+ typ="44"
+},
+["7"]={
+ name="Woobat",
+ GMN="00527000",
+ typ="55"
+},
+["8"]={
+ name="Drilbur",
+ GMN="00529000",
+ typ="66"
+},
+["9"]={
+ name="Purrloin",
+ GMN="00509000",
+ typ="77"
+},
+["10"]={
+ name="Scraggy",
+ GMN="00559000",
+ typ="77"
+},
+["11"]={
+ name="Klang",
+ GMN="00600000",
+ typ="88"
+},
+["12"]={
+ name="Axew",
+ GMN="00610000",
+ typ="121"
+}}
+

@@ -1,0 +1,54 @@
+setName="Trainer Kit EX Latios"
+DeckID=2136
+date="20040601"
+setID="tk1b"
+cardData={["1"]={
+ name="Electrike",
+ GMN="00309000",
+ typ="44"
+},
+["2"]={
+ name="Latios",
+ GMN="00381000",
+ typ="121"
+},
+["3"]={
+ name="Linoone",
+ GMN="00264000",
+ typ="121"
+},
+["4"]={
+ name="Magnemite",
+ GMN="00081000",
+ typ="44"
+},
+["5"]={
+ name="Magneton",
+ GMN="00082000",
+ typ="44"
+},
+["6"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+},
+["7"]={
+ name="Zigzagoon",
+ GMN="00263000",
+ typ="121"
+},
+["8"]={
+ name="Potion",
+ GMN="30000000",
+ typ="500"
+},
+["9"]={
+ name="Energy Search",
+ GMN="30000000",
+ typ="500"
+},
+["10"]={
+ name="Lightning Energy",
+ GMN="90000000",
+ typ="500"
+}}

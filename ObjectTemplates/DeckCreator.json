@@ -1,0 +1,57 @@
+    {
+      "Name": "Tileset_Floor",
+      "Transform": {
+        "posX": 63.19549,
+        "posY": 13.8647976,
+        "posZ": -14.5244741,
+        "rotX": -2.07187142E-07,
+        "rotY": 270.026855,
+        "rotZ": -3.45914E-07,
+        "scaleX": 1.3,
+        "scaleY": 0.1,
+        "scaleZ": 2.0
+      },
+      "Nickname": "PTCG Standalone Deck Creator",
+      "Description": "",
+      "GMNotes": "",
+      "Memo": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.905,
+        "g": 0.898,
+        "b": 0.1719859
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": false,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "LuaScriptState": "{\"energy\":1,\"on\":true,\"spread\":true,\"hundred\":false,\"debug\":false,\"slotTest\":false,\"allGods\":false,\"qual\":true}",
+      "XmlUI": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 1.0,
+        "DynamicFriction": 0.7,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 1000.0,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      }
+    }

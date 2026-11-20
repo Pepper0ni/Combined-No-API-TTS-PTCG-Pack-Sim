@@ -1,0 +1,846 @@
+art={
+   "10111300812350141911/C8C3662AB6CCC2AD0FB0B329050D8E79903D6634",
+   "17336347540446987131/76E2D0288CFB8B14D257D50F6036694CADFEB96B",
+   "11404416322443032060/04D483A41295CE31DA6B29F653E3301B852902EA",
+   "12664698755590497177/5294A3FCF564D6FB4AD414349C69DC6716A3E95C",
+}
+setName="Pitch Black"
+DeckID=20376
+date="20260717"
+setID="me5"
+dropSlots=[[{
+--1 energy
+  {cards={"E1","E2","E3","E4","E5","E6","E7","E8"},num=1,energy=true},
+--2 UR
+  {cards={{"96","113"}},size=18,num=0},
+--3 DR
+  {cards={"4","8","16","27","31","38","45","48","55","65"},num=0},
+--4 rare
+  {cards={"12","20","28","35","47","56","59","62","70","83","84"},num=0},
+--5 MHR
+  {cards={"120"},num=0},
+--6 SIR
+  {cards={{"114","119"}},size=6,num=0},
+--7 IR
+  {cards={{"85","95"}},size=11,num=0},
+--8 rev
+  {cards={{"1","3"},{"5","7"},{"9","15"},{"17","26"},{"28","30"},{"32","37"},{"39","44"},"46","47",{"49","54"},{"56","64"},{"66","84"}},size=74,num=1},
+--9 U
+  {cards={"6","7","14","17","22","24","26","30","34","37",{"39","41"},"52","54","64","68",{"74","82"}},size=26,num=3},
+--10 C
+  {cards={{"1","3"},"5",{"9","11"},"13","15","18","19","21","23","25","29","32","33","36",{"42","44"},"46",{"49","51"},"53","57","58","60","61","63","66","67","69",{"71","73"}},size=37,num=4},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/12.2,flag=true},--UR
+  {slot=3,odds=1/4.76,flag=true},--DR
+  {slot=4}--R
+ },num=1},
+--rev/art/hyper
+ {rates={
+  {slot=5,odds=1/771.25,flagExclude=true},--MHR
+  {slot=6,odds=1/56.1,flagExclude=true},--SIR
+  {slot=7,odds=1/6.47,flagExclude=true},--IR
+  {slot=8}--rev
+ },num=1}
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Tropius",
+ GMN="00357000",
+ typ="11",
+ rar="C"
+},
+["2"]={
+ name="Grubbin",
+ GMN="00736000",
+ typ="11",
+ rar="C"
+},
+["3"]={
+ name="Fomantis",
+ GMN="00753000",
+ typ="11",
+ rar="C"
+},
+["4"]={
+ name="Lurantis ex",
+ GMN="00754000",
+ typ="11",
+ rar="DR"
+},
+["5"]={
+ name="Poltchageist",
+ GMN="01012000",
+ typ="11",
+ rar="C"
+},
+["6"]={
+ name="Sinistcha",
+ GMN="01013000",
+ typ="11",
+ rar="U"
+},
+["7"]={
+ name="Heatran",
+ GMN="00485000",
+ typ="22",
+ rar="U"
+},
+["8"]={
+ name="Mega Delphox ex",
+ GMN="00655001",
+ typ="22",
+ rar="DR"
+},
+["9"]={
+ name="Sizzlipede",
+ GMN="00850000",
+ typ="22",
+ rar="C"
+},
+["10"]={
+ name="Centiskorch",
+ GMN="00851000",
+ typ="22",
+ rar="C"
+},
+["11"]={
+ name="Charcadet",
+ GMN="00935000",
+ typ="22",
+ rar="C"
+},
+["12"]={
+ name="Armarouge",
+ GMN="00936000",
+ typ="22",
+ rar="R"
+},
+["13"]={
+ name="Goldeen",
+ GMN="00118000",
+ typ="33",
+ rar="C"
+},
+["14"]={
+ name="Seaking",
+ GMN="00119000",
+ typ="33",
+ rar="U"
+},
+["15"]={
+ name="Wailmer",
+ GMN="00320000",
+ typ="33",
+ rar="C"
+},
+["16"]={
+ name="Wailord ex",
+ GMN="00321000",
+ typ="33",
+ rar="DR"
+},
+["17"]={
+ name="Relicanth",
+ GMN="00369000",
+ typ="33",
+ rar="U"
+},
+["18"]={
+ name="Popplio",
+ GMN="00728000",
+ typ="33",
+ rar="C"
+},
+["19"]={
+ name="Brionne",
+ GMN="00729000",
+ typ="33",
+ rar="C"
+},
+["20"]={
+ name="Primarina",
+ GMN="00730000",
+ typ="33",
+ rar="R"
+},
+["21"]={
+ name="Finizen",
+ GMN="00963000",
+ typ="33",
+ rar="C"
+},
+["22"]={
+ name="Palafin",
+ GMN="00964000",
+ typ="33",
+ rar="U"
+},
+["23"]={
+ name="Electrike",
+ GMN="00309000",
+ typ="44",
+ rar="C"
+},
+["24"]={
+ name="Manectric",
+ GMN="00310000",
+ typ="44",
+ rar="U"
+},
+["25"]={
+ name="Charjabug",
+ GMN="00737000",
+ typ="44",
+ rar="C"
+},
+["26"]={
+ name="Vikavolt",
+ GMN="00738000",
+ typ="44",
+ rar="U"
+},
+["27"]={
+ name="Mega Zeraora ex",
+ GMN="00807001",
+ typ="44",
+ rar="DR"
+},
+["28"]={
+ name="Miraidon",
+ GMN="01008000",
+ typ="44",
+ rar="R"
+},
+["29"]={
+ name="Slowpoke",
+ GMN="00079000",
+ typ="55",
+ rar="C"
+},
+["30"]={
+ name="Slowbro",
+ GMN="00080000",
+ typ="55",
+ rar="U"
+},
+["31"]={
+ name="Mega Slowbro ex",
+ GMN="00080001",
+ typ="55",
+ rar="DR"
+},
+["32"]={
+ name="Jynx",
+ GMN="00124000",
+ typ="55",
+ rar="C"
+},
+["33"]={
+ name="Shuppet",
+ GMN="00353000",
+ typ="55",
+ rar="C"
+},
+["34"]={
+ name="Banette",
+ GMN="00354000",
+ typ="55",
+ rar="U"
+},
+["35"]={
+ name="Spiritomb",
+ GMN="00442000",
+ typ="55",
+ rar="R"
+},
+["36"]={
+ name="Litwick",
+ GMN="00607000",
+ typ="55",
+ rar="C"
+},
+["37"]={
+ name="Lampent",
+ GMN="00608000",
+ typ="55",
+ rar="U"
+},
+["38"]={
+ name="Mega Chandelure ex",
+ GMN="00609001",
+ typ="55",
+ rar="DR"
+},
+["39"]={
+ name="Dhelmise",
+ GMN="00781000",
+ typ="55",
+ rar="U"
+},
+["40"]={
+ name="Marshadow",
+ GMN="00802000",
+ typ="55",
+ rar="U"
+},
+["41"]={
+ name="Annihilape",
+ GMN="00057500",
+ typ="55",
+ rar="U"
+},
+["42"]={
+ name="Mankey",
+ GMN="00056000",
+ typ="66",
+ rar="C"
+},
+["43"]={
+ name="Primeape",
+ GMN="00057000",
+ typ="66",
+ rar="C"
+},
+["44"]={
+ name="Cranidos",
+ GMN="00408000",
+ typ="66",
+ rar="C"
+},
+["45"]={
+ name="Rampardos ex",
+ GMN="00409000",
+ typ="66",
+ rar="DR"
+},
+["46"]={
+ name="Drilbur",
+ GMN="00529000",
+ typ="66",
+ rar="C"
+},
+["47"]={
+ name="Koraidon",
+ GMN="01007000",
+ typ="66",
+ rar="R"
+},
+["48"]={
+ name="Mega Darkrai ex",
+ GMN="00491001",
+ typ="77",
+ rar="DR"
+},
+["49"]={
+ name="Vullaby",
+ GMN="00629000",
+ typ="77",
+ rar="C"
+},
+["50"]={
+ name="Mandibuzz",
+ GMN="00630000",
+ typ="77",
+ rar="C"
+},
+["51"]={
+ name="Inkay",
+ GMN="00686000",
+ typ="77",
+ rar="C"
+},
+["52"]={
+ name="Malamar",
+ GMN="00687000",
+ typ="77",
+ rar="U"
+},
+["53"]={
+ name="Nickit",
+ GMN="00827000",
+ typ="77",
+ rar="C"
+},
+["54"]={
+ name="Thievul",
+ GMN="00828000",
+ typ="77",
+ rar="U"
+},
+["55"]={
+ name="Morpeko ex",
+ GMN="00877000",
+ typ="77",
+ rar="DR"
+},
+["56"]={
+ name="Zarude",
+ GMN="00893000",
+ typ="77",
+ rar="R"
+},
+["57"]={
+ name="Maschiff",
+ GMN="00942000",
+ typ="77",
+ rar="C"
+},
+["58"]={
+ name="Mabosstiff",
+ GMN="00943000",
+ typ="77",
+ rar="C"
+},
+["59"]={
+ name="Chi-Yu",
+ GMN="01004000",
+ typ="77",
+ rar="R"
+},
+["60"]={
+ name="Skarmory",
+ GMN="00227000",
+ typ="88",
+ rar="C"
+},
+["61"]={
+ name="Shieldon",
+ GMN="00410000",
+ typ="88",
+ rar="C"
+},
+["62"]={
+ name="Bastiodon",
+ GMN="00411000",
+ typ="88",
+ rar="R"
+},
+["63"]={
+ name="Bronzor",
+ GMN="00436000",
+ typ="88",
+ rar="C"
+},
+["64"]={
+ name="Bronzong",
+ GMN="00437000",
+ typ="88",
+ rar="U"
+},
+["65"]={
+ name="Mega Excadrill ex",
+ GMN="00530001",
+ typ="88",
+ rar="DR"
+},
+["66"]={
+ name="Pikipek",
+ GMN="00731000",
+ typ="121",
+ rar="C"
+},
+["67"]={
+ name="Trumbeak",
+ GMN="00732000",
+ typ="121",
+ rar="C"
+},
+["68"]={
+ name="Toucannon",
+ GMN="00733000",
+ typ="121",
+ rar="U"
+},
+["69"]={
+ name="Type: Null",
+ GMN="00772000",
+ typ="121",
+ rar="C"
+},
+["70"]={
+ name="Silvally",
+ GMN="00773000",
+ typ="121",
+ rar="R"
+},
+["71"]={
+ name="Bombirdier",
+ GMN="00962000",
+ typ="121",
+ rar="C"
+},
+["72"]={
+ name="Antique Armor Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["73"]={
+ name="Antique Skull Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["74"]={
+ name="Backtrack Badge",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["75"]={
+ name="Dark Bell",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["76"]={
+ name="Fossil Quarry",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["77"]={
+ name="Gladion's Final Battle",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["78"]={
+ name="Gwynn",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["79"]={
+ name="Jett",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["80"]={
+ name="Misty's Vitality",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["81"]={
+ name="Rust Syndicate Grunt",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["82"]={
+ name="Tremendous Bomb",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["83"]={
+ name="Shadowy Darkness Energy",
+ GMN="80000000",
+ typ="500",
+ rar="R"
+},
+["84"]={
+ name="Voltaic Lightning Energy",
+ GMN="80000000",
+ typ="500",
+ rar="R"
+},
+["85"]={
+ name="Fomantis",
+ GMN="00753000",
+ typ="11",
+ rar="IR"
+},
+["86"]={
+ name="Armarouge",
+ GMN="00936000",
+ typ="22",
+ rar="IR"
+},
+["87"]={
+ name="Goldeen",
+ GMN="00118000",
+ typ="33",
+ rar="IR"
+},
+["88"]={
+ name="Primarina",
+ GMN="00730000",
+ typ="33",
+ rar="IR"
+},
+["89"]={
+ name="Manectric",
+ GMN="00310000",
+ typ="44",
+ rar="IR"
+},
+["90"]={
+ name="Slowbro",
+ GMN="00080000",
+ typ="55",
+ rar="IR"
+},
+["91"]={
+ name="Dhelmise",
+ GMN="00781000",
+ typ="55",
+ rar="IR"
+},
+["92"]={
+ name="Thievul",
+ GMN="00828000",
+ typ="77",
+ rar="IR"
+},
+["93"]={
+ name="Bastiodon",
+ GMN="00411000",
+ typ="88",
+ rar="IR"
+},
+["94"]={
+ name="Toucannon",
+ GMN="00733000",
+ typ="121",
+ rar="IR"
+},
+["95"]={
+ name="Silvally",
+ GMN="00773000",
+ typ="121",
+ rar="IR"
+},
+["96"]={
+ name="Lurantis ex",
+ GMN="00754000",
+ typ="11",
+ rar="UR"
+},
+["97"]={
+ name="Wailord ex",
+ GMN="00321000",
+ typ="33",
+ rar="UR"
+},
+["98"]={
+ name="Mega Zeraora ex",
+ GMN="00807001",
+ typ="44",
+ rar="UR"
+},
+["99"]={
+ name="Mega Chandelure ex",
+ GMN="00609001",
+ typ="55",
+ rar="UR"
+},
+["100"]={
+ name="Rampardos ex",
+ GMN="00409000",
+ typ="66",
+ rar="UR"
+},
+["101"]={
+ name="Mega Darkrai ex",
+ GMN="00491001",
+ typ="77",
+ rar="UR"
+},
+["102"]={
+ name="Morpeko ex",
+ GMN="00877000",
+ typ="77",
+ rar="UR"
+},
+["103"]={
+ name="Mega Excadrill ex",
+ GMN="00530001",
+ typ="88",
+ rar="UR"
+},
+["104"]={
+ name="Brave Bangle",
+ GMN="60000000",
+ typ="500",
+ rar="UR"
+},
+["105"]={
+ name="Crushing Hammer",
+ GMN="30000000",
+ typ="500",
+ rar="UR"
+},
+["106"]={
+ name="Dark Bell",
+ GMN="30000000",
+ typ="500",
+ rar="UR"
+},
+["107"]={
+ name="Energy Switch",
+ GMN="30000000",
+ typ="500",
+ rar="UR"
+},
+["108"]={
+ name="Gladion's Final Battle",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["109"]={
+ name="Gwynn",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["110"]={
+ name="Iron Defender",
+ GMN="30000000",
+ typ="500",
+ rar="UR"
+},
+["111"]={
+ name="Misty's Vitality",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["112"]={
+ name="Rust Syndicate Grunt",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["113"]={
+ name="Tremendous Bomb",
+ GMN="60000000",
+ typ="500",
+ rar="UR"
+},
+["114"]={
+ name="Mega Zeraora ex",
+ GMN="00807001",
+ typ="44",
+ rar="SIR"
+},
+["115"]={
+ name="Mega Chandelure ex",
+ GMN="00609001",
+ typ="55",
+ rar="SIR"
+},
+["116"]={
+ name="Mega Darkrai ex",
+ GMN="00491001",
+ typ="77",
+ rar="SIR"
+},
+["117"]={
+ name="Morpeko ex",
+ GMN="00877000",
+ typ="77",
+ rar="SIR"
+},
+["118"]={
+ name="Gladion's Final Battle",
+ GMN="40000000",
+ typ="500",
+ rar="SIR"
+},
+["119"]={
+ name="Gwynn",
+ GMN="40000000",
+ typ="500",
+ rar="SIR"
+},
+["120"]={
+ name="Mega Darkrai ex",
+ GMN="00491001",
+ typ="77",
+ rar="MHR"
+},
+}
+]]
+
+energyString=[[energy={
+["1"]={
+ name="Basic Grass Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19627,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_001_std.jpg"
+},
+["2"]={
+ name="Basic Fire Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19628,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_002_std.jpg"
+},
+["3"]={
+ name="Basic Water Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19629,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_003_std.jpg"
+},
+["4"]={
+ name="Basic Lightning Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19630,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_004_std.jpg"
+},
+["5"]={
+ name="Basic Psychic Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19631,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_005_std.jpg"
+},
+["6"]={
+ name="Basic Fighting Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19632,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_006_std.jpg"
+},
+["7"]={
+ name="Basic Darkness Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19633,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_007_std.jpg"
+},
+["8"]={
+ name="Basic Metal Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Mega Evolution Energy",
+ date="20250926",
+ ID=19634,
+ image="https://pkmncards.com/wp-content/uploads/mee_en_008_std.jpg"
+}}
+]]
+

@@ -1,0 +1,134 @@
+art={"1890974789082772229/B9070F5001BCC284530DB7A8DC4BB942B5976044"
+}
+setName="POP Series 3"
+DeckID=3076
+date="20060401"
+setID="pop3"
+noBox=true
+dropSlots=[[{
+--1 C
+  {cards={{'12','16'}},num=0,size=5},
+--2 U
+  {cards={{'7','11'}},num=0,size=5},
+--3 R
+  {cards={{'1','6'},'17'},num=0,size=7},
+}]]
+pullRates=[[{
+--unc
+ {rates={
+  {slot=2,odds=0.311},--U
+  {slot=1}--C
+ },num=1},
+--rare
+ {rates={
+  {slot=3,odds=1/9.825},--R
+  {slot=1}--C
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Blastoise",
+ GMN="00009000",
+ typ="33",
+ rar="R"
+},
+["2"]={
+ name="Flareon",
+ GMN="00136000",
+ typ="22",
+ rar="R"
+},
+["3"]={
+ name="Jolteon",
+ GMN="00135000",
+ typ="44",
+ rar="R"
+},
+["4"]={
+ name="Minun",
+ GMN="00312000",
+ typ="44",
+ rar="R"
+},
+["5"]={
+ name="Plusle",
+ GMN="00311000",
+ typ="44",
+ rar="R"
+},
+["6"]={
+ name="Vaporeon",
+ GMN="00134000",
+ typ="33",
+ rar="R"
+},
+["7"]={
+ name="Combusken",
+ GMN="00256000",
+ typ="22",
+ rar="U"
+},
+["8"]={
+ name="Donphan",
+ GMN="00232000",
+ typ="66",
+ rar="U"
+},
+["9"]={
+ name="Forretress",
+ GMN="00205000",
+ typ="11",
+ rar="U"
+},
+["10"]={
+ name="High Pressure System",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["11"]={
+ name="Low Pressure System",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["12"]={
+ name="Ditto",
+ GMN="00132000",
+ typ="55",
+ rar="C"
+},
+["13"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121",
+ rar="C"
+},
+["14"]={
+ name="Ivysaur",
+ GMN="00002000",
+ typ="11",
+ rar="C"
+},
+["15"]={
+ name="Marshtomp",
+ GMN="00259000",
+ typ="66",
+ rar="C"
+},
+["16"]={
+ name="Pichu Bros.",
+ GMN="00024500",
+ typ="44",
+ rar="C"
+},
+["17"]={
+ name="Ho-Oh ex",
+ GMN="00250000",
+ typ="22",
+ rar="R"
+}}
+]]
+
+energyString="energy={}"
+

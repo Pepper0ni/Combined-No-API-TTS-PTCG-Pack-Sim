@@ -1,0 +1,94 @@
+setName="Southern Islands"
+DeckID=944
+date="20010731"
+setID="si1"
+cardData={["1"]={
+ name="Mew",
+ GMN="00151000",
+ typ="55"
+},
+["2"]={
+ name="Pidgeot",
+ GMN="00018000",
+ typ="121"
+},
+["3"]={
+ name="Onix",
+ GMN="00095000",
+ typ="66"
+},
+["4"]={
+ name="Togepi",
+ GMN="00175000",
+ typ="121"
+},
+["5"]={
+ name="Ivysaur",
+ GMN="00002000",
+ typ="11"
+},
+["6"]={
+ name="Raticate",
+ GMN="00020000",
+ typ="121"
+},
+["7"]={
+ name="Ledyba",
+ GMN="00165000",
+ typ="11"
+},
+["8"]={
+ name="Jigglypuff",
+ GMN="00039000",
+ typ="121"
+},
+["9"]={
+ name="Butterfree",
+ GMN="00012000",
+ typ="11"
+},
+["10"]={
+ name="Tentacruel",
+ GMN="00073000",
+ typ="33"
+},
+["11"]={
+ name="Marill",
+ GMN="00183000",
+ typ="33"
+},
+["12"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33"
+},
+["13"]={
+ name="Exeggutor",
+ GMN="00103000",
+ typ="11"
+},
+["14"]={
+ name="Slowking",
+ GMN="00080500",
+ typ="55"
+},
+["15"]={
+ name="Wartortle",
+ GMN="00008000",
+ typ="33"
+},
+["16"]={
+ name="Lickitung",
+ GMN="00108000",
+ typ="121"
+},
+["17"]={
+ name="Vileplume",
+ GMN="00045000",
+ typ="11"
+},
+["18"]={
+ name="Primeape",
+ GMN="00057000",
+ typ="66"
+}}

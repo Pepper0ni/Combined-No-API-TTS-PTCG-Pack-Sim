@@ -1,0 +1,430 @@
+art={"1890974789081516402/BE810A0056E23C0C2ED5A31AA75202C8507A40E4",
+   "1890974789081499378/3275A278A6325273CF602D2189F91E36225A0F1B",
+   "1890974789081483619/2EE0725C938B2F6FF687065101775A02D7549E67",
+   "1890974789081480930/75E002BE2B26935578CD0510EB7ACB5B07587EA2"
+}
+setName="Neo Revelation"
+DeckID=962
+date="20010921"
+setID="neo3"
+dropSlots=[[{
+--1 U
+  {cards={{'28','40'},{'60','63'}},num=3,size=17},
+--2 shiny
+  {cards={'65','66'},num=0,size=2},
+--3 RH
+  {cards={{'1','14'}},num=0,size=14},
+--4 R
+  {cards={{'15','27'}},num=0,size=13},
+--5 C
+  {cards={{'41','59'},'64'},num=7,size=20},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/18},--shiny
+  {slot=3,remaining=true,odds=1/3},--RH
+  {slot=4}--R
+  },num=1},
+ }]]
+ cardString=[[
+cardData={["1"]={
+ name="Ampharos",
+ GMN="00181000",
+ typ="44",
+ rar="RH"
+},
+["2"]={
+ name="Blissey",
+ GMN="00113500",
+ typ="121",
+ rar="RH"
+},
+["3"]={
+ name="Celebi",
+ GMN="00251000",
+ typ="55",
+ rar="RH"
+},
+["4"]={
+ name="Crobat",
+ GMN="00042500",
+ typ="11",
+ rar="RH"
+},
+["5"]={
+ name="Delibird",
+ GMN="00225000",
+ typ="121",
+ rar="RH"
+},
+["6"]={
+ name="Entei",
+ GMN="00244000",
+ typ="22",
+ rar="RH"
+},
+["7"]={
+ name="Ho-oh",
+ GMN="00250000",
+ typ="22",
+ rar="RH"
+},
+["8"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="77",
+ rar="RH"
+},
+["9"]={
+ name="Jumpluff",
+ GMN="00189000",
+ typ="11",
+ rar="RH"
+},
+["10"]={
+ name="Magneton",
+ GMN="00082000",
+ typ="88",
+ rar="RH"
+},
+["11"]={
+ name="Misdreavus",
+ GMN="00200000",
+ typ="55",
+ rar="RH"
+},
+["12"]={
+ name="Porygon2",
+ GMN="00137300",
+ typ="121",
+ rar="RH"
+},
+["13"]={
+ name="Raikou",
+ GMN="00243000",
+ typ="44",
+ rar="RH"
+},
+["14"]={
+ name="Suicune",
+ GMN="00245000",
+ typ="33",
+ rar="RH"
+},
+["15"]={
+ name="Aerodactyl",
+ GMN="00142000",
+ typ="66",
+ rar="R"
+},
+["16"]={
+ name="Celebi",
+ GMN="00251000",
+ typ="11",
+ rar="R"
+},
+["17"]={
+ name="Entei",
+ GMN="00244000",
+ typ="22",
+ rar="R"
+},
+["18"]={
+ name="Ho-oh",
+ GMN="00250000",
+ typ="121",
+ rar="R"
+},
+["19"]={
+ name="Kingdra",
+ GMN="00117500",
+ typ="33",
+ rar="R"
+},
+["20"]={
+ name="Lugia",
+ GMN="00249000",
+ typ="55",
+ rar="R"
+},
+["21"]={
+ name="Raichu",
+ GMN="00026000",
+ typ="44",
+ rar="R"
+},
+["22"]={
+ name="Raikou",
+ GMN="00243000",
+ typ="44",
+ rar="R"
+},
+["23"]={
+ name="Skarmory",
+ GMN="00227000",
+ typ="88",
+ rar="R"
+},
+["24"]={
+ name="Sneasel",
+ GMN="00215000",
+ typ="77",
+ rar="R"
+},
+["25"]={
+ name="Starmie",
+ GMN="00121000",
+ typ="55",
+ rar="R"
+},
+["26"]={
+ name="Sudowoodo",
+ GMN="00185000",
+ typ="66",
+ rar="R"
+},
+["27"]={
+ name="Suicune",
+ GMN="00245000",
+ typ="33",
+ rar="R"
+},
+["28"]={
+ name="Flaaffy",
+ GMN="00180000",
+ typ="44",
+ rar="U"
+},
+["29"]={
+ name="Golbat",
+ GMN="00042000",
+ typ="11",
+ rar="U"
+},
+["30"]={
+ name="Graveler",
+ GMN="00075000",
+ typ="66",
+ rar="U"
+},
+["31"]={
+ name="Jynx",
+ GMN="00124000",
+ typ="33",
+ rar="U"
+},
+["32"]={
+ name="Lanturn",
+ GMN="00171000",
+ typ="44",
+ rar="U"
+},
+["33"]={
+ name="Magcargo",
+ GMN="00219000",
+ typ="22",
+ rar="U"
+},
+["34"]={
+ name="Octillery",
+ GMN="00224000",
+ typ="33",
+ rar="U"
+},
+["35"]={
+ name="Parasect",
+ GMN="00047000",
+ typ="11",
+ rar="U"
+},
+["36"]={
+ name="Piloswine",
+ GMN="00221000",
+ typ="66",
+ rar="U"
+},
+["37"]={
+ name="Seaking",
+ GMN="00119000",
+ typ="33",
+ rar="U"
+},
+["38"]={
+ name="Stantler",
+ GMN="00234000",
+ typ="121",
+ rar="U"
+},
+["39"]={
+ name="Unown [​​​​​​​​​​​​​​B]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["40"]={
+ name="Unown [​​​​​​​​​​​​​​Y]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["41"]={
+ name="Aipom",
+ GMN="00190000",
+ typ="121",
+ rar="C"
+},
+["42"]={
+ name="Chinchou",
+ GMN="00170000",
+ typ="44",
+ rar="C"
+},
+["43"]={
+ name="Farfetch'd",
+ GMN="00083000",
+ typ="121",
+ rar="C"
+},
+["44"]={
+ name="Geodude",
+ GMN="00074000",
+ typ="66",
+ rar="C"
+},
+["45"]={
+ name="Goldeen",
+ GMN="00118000",
+ typ="33",
+ rar="C"
+},
+["46"]={
+ name="Murkrow",
+ GMN="00198000",
+ typ="77",
+ rar="C"
+},
+["47"]={
+ name="Paras",
+ GMN="00046000",
+ typ="11",
+ rar="C"
+},
+["48"]={
+ name="Quagsire",
+ GMN="00195000",
+ typ="33",
+ rar="C"
+},
+["49"]={
+ name="Qwilfish",
+ GMN="00211000",
+ typ="33",
+ rar="C"
+},
+["50"]={
+ name="Remoraid",
+ GMN="00223000",
+ typ="33",
+ rar="C"
+},
+["51"]={
+ name="Shuckle",
+ GMN="00213000",
+ typ="66",
+ rar="C"
+},
+["52"]={
+ name="Skiploom",
+ GMN="00188000",
+ typ="11",
+ rar="C"
+},
+["53"]={
+ name="Slugma",
+ GMN="00218000",
+ typ="22",
+ rar="C"
+},
+["54"]={
+ name="Smoochum",
+ GMN="00123700",
+ typ="55",
+ rar="C"
+},
+["55"]={
+ name="Snubbull",
+ GMN="00209000",
+ typ="121",
+ rar="C"
+},
+["56"]={
+ name="Staryu",
+ GMN="00120000",
+ typ="33",
+ rar="C"
+},
+["57"]={
+ name="Swinub",
+ GMN="00220000",
+ typ="66",
+ rar="C"
+},
+["58"]={
+ name="Unown [​​​​​​​​​​​​​​K]",
+ GMN="00201000",
+ typ="55",
+ rar="C"
+},
+["59"]={
+ name="Zubat",
+ GMN="00041000",
+ typ="11",
+ rar="C"
+},
+["60"]={
+ name="Balloon Berry",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["61"]={
+ name="Healing Field",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["62"]={
+ name="Pokémon Breeder Fields",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["63"]={
+ name="Rocket's Hideout",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["64"]={
+ name="Old Rod",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["65"]={
+ name="Shining Gyarados",
+ GMN="00130000",
+ typ="33",
+ rar="RS"
+},
+["66"]={
+ name="Shining Magikarp",
+ GMN="00129000",
+ typ="33",
+ rar="RS"
+}}
+]]
+
+energyString="energy={}"
+

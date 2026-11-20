@@ -1,0 +1,64 @@
+setName="McDonald's Collection 2016"
+DeckID=8891
+date="20160819"
+setID="mcd16"
+cardData={["1"]={
+ name="Vulpix",
+ GMN="00037000",
+ typ="22"
+},
+["2"]={
+ name="Torchic",
+ GMN="00255000",
+ typ="22"
+},
+["3"]={
+ name="Fennekin",
+ GMN="00653000",
+ typ="22"
+},
+["4"]={
+ name="Magikarp",
+ GMN="00129000",
+ typ="33"
+},
+["5"]={
+ name="Totodile",
+ GMN="00158000",
+ typ="33"
+},
+["6"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+},
+["7"]={
+ name="Scraggy",
+ GMN="00559000",
+ typ="77"
+},
+["8"]={
+ name="Jigglypuff",
+ GMN="00039000",
+ typ="99"
+},
+["9"]={
+ name="Togepi",
+ GMN="00175000",
+ typ="99"
+},
+["10"]={
+ name="Dedenne",
+ GMN="00702000",
+ typ="99"
+},
+["11"]={
+ name="Meowth",
+ GMN="00052000",
+ typ="121"
+},
+["12"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121"
+}}

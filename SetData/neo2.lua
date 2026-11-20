@@ -1,0 +1,481 @@
+art={"1890974789081499669/A4C666E34D65C863C95B7B71638A692B783695C9",
+   "1890974789081479596/9055EF05DDFE71C153768D1D1C0B7318355D81E3",
+   "1890974789081487343/D0D083C1F61B60075EA98844A1B1655F5FB05CD9",
+   "1890974789081488038/D78C21595154CCC63ADA82FD4B7088B74EFF192B"
+}
+setName="Neo Discovery"
+DeckID=869
+date="20010601"
+setID="neo2"
+dropSlots=[[{
+--1 RH
+  {cards={{'1','17'}},num=0,size=17},
+--2 R
+  {cards={{'18','36'}},num=0,size=19},
+--3 U
+  {cards={{'37','52'},{'72','74'}},num=3,size=19},
+--4 C
+  {cards={{'53','71'},'75'},num=7,size=20},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/3},--RH
+  {slot=2}--R
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Espeon",
+ GMN="00136100",
+ typ="55",
+ rar="RH"
+},
+["2"]={
+ name="Forretress",
+ GMN="00205000",
+ typ="88",
+ rar="RH"
+},
+["3"]={
+ name="Hitmontop",
+ GMN="00107500",
+ typ="66",
+ rar="RH"
+},
+["4"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="77",
+ rar="RH"
+},
+["5"]={
+ name="Houndour",
+ GMN="00228000",
+ typ="22",
+ rar="RH"
+},
+["6"]={
+ name="Kabutops",
+ GMN="00141000",
+ typ="33",
+ rar="RH"
+},
+["7"]={
+ name="Magnemite",
+ GMN="00081000",
+ typ="88",
+ rar="RH"
+},
+["8"]={
+ name="Politoed",
+ GMN="00062500",
+ typ="33",
+ rar="RH"
+},
+["9"]={
+ name="Poliwrath",
+ GMN="00062000",
+ typ="66",
+ rar="RH"
+},
+["10"]={
+ name="Scizor",
+ GMN="00123300",
+ typ="88",
+ rar="RH"
+},
+["11"]={
+ name="Smeargle",
+ GMN="00235000",
+ typ="121",
+ rar="RH"
+},
+["12"]={
+ name="Tyranitar",
+ GMN="00248000",
+ typ="77",
+ rar="RH"
+},
+["13"]={
+ name="Umbreon",
+ GMN="00136200",
+ typ="77",
+ rar="RH"
+},
+["14"]={
+ name="Unown [​​​​​​​​​​​​​​A]",
+ GMN="00201000",
+ typ="55",
+ rar="RH"
+},
+["15"]={
+ name="Ursaring",
+ GMN="00217000",
+ typ="121",
+ rar="RH"
+},
+["16"]={
+ name="Wobbuffet",
+ GMN="00202000",
+ typ="55",
+ rar="RH"
+},
+["17"]={
+ name="Yanma",
+ GMN="00193000",
+ typ="11",
+ rar="RH"
+},
+["18"]={
+ name="Beedrill",
+ GMN="00015000",
+ typ="11",
+ rar="R"
+},
+["19"]={
+ name="Butterfree",
+ GMN="00012000",
+ typ="11",
+ rar="R"
+},
+["20"]={
+ name="Espeon",
+ GMN="00136100",
+ typ="55",
+ rar="R"
+},
+["21"]={
+ name="Forretress",
+ GMN="00205000",
+ typ="88",
+ rar="R"
+},
+["22"]={
+ name="Hitmontop",
+ GMN="00107500",
+ typ="66",
+ rar="R"
+},
+["23"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="77",
+ rar="R"
+},
+["24"]={
+ name="Houndour",
+ GMN="00228000",
+ typ="22",
+ rar="R"
+},
+["25"]={
+ name="Kabutops",
+ GMN="00141000",
+ typ="33",
+ rar="R"
+},
+["26"]={
+ name="Magnemite",
+ GMN="00081000",
+ typ="88",
+ rar="R"
+},
+["27"]={
+ name="Politoed",
+ GMN="00062500",
+ typ="33",
+ rar="R"
+},
+["28"]={
+ name="Poliwrath",
+ GMN="00062000",
+ typ="66",
+ rar="R"
+},
+["29"]={
+ name="Scizor",
+ GMN="00123300",
+ typ="88",
+ rar="R"
+},
+["30"]={
+ name="Smeargle",
+ GMN="00235000",
+ typ="121",
+ rar="R"
+},
+["31"]={
+ name="Tyranitar",
+ GMN="00248000",
+ typ="77",
+ rar="R"
+},
+["32"]={
+ name="Umbreon",
+ GMN="00136200",
+ typ="77",
+ rar="R"
+},
+["33"]={
+ name="Unown [​​​​​​​​​​​​​​A]",
+ GMN="00201000",
+ typ="55",
+ rar="R"
+},
+["34"]={
+ name="Ursaring",
+ GMN="00217000",
+ typ="121",
+ rar="R"
+},
+["35"]={
+ name="Wobbuffet",
+ GMN="00202000",
+ typ="55",
+ rar="R"
+},
+["36"]={
+ name="Yanma",
+ GMN="00193000",
+ typ="11",
+ rar="R"
+},
+["37"]={
+ name="Corsola",
+ GMN="00222000",
+ typ="33",
+ rar="U"
+},
+["38"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121",
+ rar="U"
+},
+["39"]={
+ name="Houndour",
+ GMN="00228000",
+ typ="77",
+ rar="U"
+},
+["40"]={
+ name="Igglybuff",
+ GMN="00038500",
+ typ="121",
+ rar="U"
+},
+["41"]={
+ name="Kakuna",
+ GMN="00014000",
+ typ="11",
+ rar="U"
+},
+["42"]={
+ name="Metapod",
+ GMN="00011000",
+ typ="11",
+ rar="U"
+},
+["43"]={
+ name="Omastar",
+ GMN="00139000",
+ typ="66",
+ rar="U"
+},
+["44"]={
+ name="Poliwhirl",
+ GMN="00061000",
+ typ="33",
+ rar="U"
+},
+["45"]={
+ name="Pupitar",
+ GMN="00247000",
+ typ="66",
+ rar="U"
+},
+["46"]={
+ name="Scyther",
+ GMN="00123000",
+ typ="11",
+ rar="U"
+},
+["47"]={
+ name="Unown [​​​​​​​​​​​​​​D]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["48"]={
+ name="Unown [​​​​​​​​​​​​​​F]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["49"]={
+ name="Unown [​​​​​​​​​​​​​​M]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["50"]={
+ name="Unown [​​​​​​​​​​​​​​N]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["51"]={
+ name="Unown [​​​​​​​​​​​​​​U]",
+ GMN="00201000",
+ typ="55",
+ rar="U"
+},
+["52"]={
+ name="Xatu",
+ GMN="00178000",
+ typ="55",
+ rar="U"
+},
+["53"]={
+ name="Caterpie",
+ GMN="00010000",
+ typ="11",
+ rar="C"
+},
+["54"]={
+ name="Dunsparce",
+ GMN="00206000",
+ typ="121",
+ rar="C"
+},
+["55"]={
+ name="Hoppip",
+ GMN="00187000",
+ typ="11",
+ rar="C"
+},
+["56"]={
+ name="Kabuto",
+ GMN="00140000",
+ typ="33",
+ rar="C"
+},
+["57"]={
+ name="Larvitar",
+ GMN="00246000",
+ typ="66",
+ rar="C"
+},
+["58"]={
+ name="Mareep",
+ GMN="00179000",
+ typ="44",
+ rar="C"
+},
+["59"]={
+ name="Natu",
+ GMN="00177000",
+ typ="55",
+ rar="C"
+},
+["60"]={
+ name="Omanyte",
+ GMN="00138000",
+ typ="66",
+ rar="C"
+},
+["61"]={
+ name="Pineco",
+ GMN="00204000",
+ typ="11",
+ rar="C"
+},
+["62"]={
+ name="Poliwag",
+ GMN="00060000",
+ typ="33",
+ rar="C"
+},
+["63"]={
+ name="Sentret",
+ GMN="00161000",
+ typ="121",
+ rar="C"
+},
+["64"]={
+ name="Spinarak",
+ GMN="00167000",
+ typ="11",
+ rar="C"
+},
+["65"]={
+ name="Teddiursa",
+ GMN="00216000",
+ typ="121",
+ rar="C"
+},
+["66"]={
+ name="Tyrogue",
+ GMN="00105500",
+ typ="66",
+ rar="C"
+},
+["67"]={
+ name="Unown [​​​​​​​​​​​​​​E]",
+ GMN="00201000",
+ typ="55",
+ rar="C"
+},
+["68"]={
+ name="Unown [​​​​​​​​​​​​​​I]",
+ GMN="00201000",
+ typ="55",
+ rar="C"
+},
+["69"]={
+ name="Unown [​​​​​​​​​​​​​​O]",
+ GMN="00201000",
+ typ="55",
+ rar="C"
+},
+["70"]={
+ name="Weedle",
+ GMN="00013000",
+ typ="11",
+ rar="C"
+},
+["71"]={
+ name="Wooper",
+ GMN="00194000",
+ typ="33",
+ rar="C"
+},
+["72"]={
+ name="Fossil Egg",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["73"]={
+ name="Hyper Devolution Spray",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["74"]={
+ name="Ruin Wall",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["75"]={
+ name="Energy Ark",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+}}
+]]
+
+energyString="energy={}"
+

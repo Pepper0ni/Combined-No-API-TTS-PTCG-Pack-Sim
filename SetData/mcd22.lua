@@ -1,0 +1,94 @@
+art={"1890974789081497232/E4FF622A14E4C9EED44C560C8D0B79DF6294AF85"
+}
+setName="McDonald's Collection 2022"
+DeckID=15004
+date="20220803"
+setID="mcd22"
+noBox=true
+dropSlots=[[{
+--1 C
+  {cards={'1','6',{'8','14'}},num=3,size=9},
+--2 RH
+  {cards={{'2','5'},'7','15'},num=1,size=6},
+}]]
+pullRates="{}"
+cardString=[[
+cardData={["1"]={
+ name="Ledyba",
+ GMN="00165000",
+ typ="11"
+},
+["2"]={
+ name="Rowlet",
+ GMN="00722000",
+ typ="11"
+},
+["3"]={
+ name="Gossifleur",
+ GMN="00829000",
+ typ="11"
+},
+["4"]={
+ name="Growlithe",
+ GMN="00058000",
+ typ="22"
+},
+["5"]={
+ name="Victini",
+ GMN="00494000",
+ typ="22"
+},
+["6"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33"
+},
+["7"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+},
+["8"]={
+ name="Chinchou",
+ GMN="00170000",
+ typ="44"
+},
+["9"]={
+ name="Flaaffy",
+ GMN="00180000",
+ typ="44"
+},
+["10"]={
+ name="Tynamo",
+ GMN="00602000",
+ typ="44"
+},
+["11"]={
+ name="Cutiefly",
+ GMN="00742000",
+ typ="55"
+},
+["12"]={
+ name="Bewear",
+ GMN="00760000",
+ typ="66"
+},
+["13"]={
+ name="Pangoro",
+ GMN="00675000",
+ typ="77"
+},
+["14"]={
+ name="Drampa",
+ GMN="00780000",
+ typ="110"
+},
+["15"]={
+ name="Smeargle",
+ GMN="00235000",
+ typ="121"
+}}
+]]
+
+energyString="energy={}"
+

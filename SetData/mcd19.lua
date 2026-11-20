@@ -1,0 +1,64 @@
+setName="McDonald's Collection 2019"
+DeckID=11726
+date="20191015"
+setID="mcd19"
+cardData={["1"]={
+ name="Caterpie",
+ GMN="00010000",
+ typ="11"
+},
+["2"]={
+ name="Alolan Exeggutor",
+ GMN="00103000",
+ typ="11"
+},
+["3"]={
+ name="Magmar",
+ GMN="00126000",
+ typ="22"
+},
+["4"]={
+ name="Alolan Sandshrew",
+ GMN="00027000",
+ typ="33"
+},
+["5"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33"
+},
+["6"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+},
+["7"]={
+ name="Gastly",
+ GMN="00092000",
+ typ="55"
+},
+["8"]={
+ name="Mankey",
+ GMN="00056000",
+ typ="66"
+},
+["9"]={
+ name="Onix",
+ GMN="00095000",
+ typ="66"
+},
+["10"]={
+ name="Alolan Meowth",
+ GMN="00052000",
+ typ="77"
+},
+["11"]={
+ name="Alolan Dugtrio",
+ GMN="00051000",
+ typ="88"
+},
+["12"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121"
+}}

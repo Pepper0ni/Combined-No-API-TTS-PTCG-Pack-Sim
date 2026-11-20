@@ -1,0 +1,239 @@
+setName="Kalos Starter Set"
+DeckID=7294
+date="20131108"
+setID="xy0"
+cardData={["1"]={
+ name="Weedle",
+ GMN="00013000",
+ typ="11",
+ rar=""
+},
+["2"]={
+ name="Pansage",
+ GMN="00511000",
+ typ="11",
+ rar=""
+},
+["3"]={
+ name="Chespin",
+ GMN="00650000",
+ typ="11",
+ rar=""
+},
+["4"]={
+ name="Quilladin",
+ GMN="00651000",
+ typ="11",
+ rar=""
+},
+["5"]={
+ name="Chesnaught",
+ GMN="00652000",
+ typ="11",
+ rar=""
+},
+["6"]={
+ name="Slugma",
+ GMN="00218000",
+ typ="22",
+ rar=""
+},
+["7"]={
+ name="Pansear",
+ GMN="00513000",
+ typ="22",
+ rar=""
+},
+["8"]={
+ name="Fennekin",
+ GMN="00653000",
+ typ="22",
+ rar=""
+},
+["9"]={
+ name="Braixen",
+ GMN="00654000",
+ typ="22",
+ rar=""
+},
+["10"]={
+ name="Delphox",
+ GMN="00655000",
+ typ="22",
+ rar=""
+},
+["11"]={
+ name="Panpour",
+ GMN="00515000",
+ typ="33",
+ rar=""
+},
+["12"]={
+ name="Froakie",
+ GMN="00656000",
+ typ="33",
+ rar=""
+},
+["13"]={
+ name="Frogadier",
+ GMN="00657000",
+ typ="33",
+ rar=""
+},
+["14"]={
+ name="Greninja",
+ GMN="00658000",
+ typ="33",
+ rar=""
+},
+["15"]={
+ name="Clauncher",
+ GMN="00692000",
+ typ="33",
+ rar=""
+},
+["16"]={
+ name="Poochyena",
+ GMN="00261000",
+ typ="77",
+ rar=""
+},
+["17"]={
+ name="Mightyena",
+ GMN="00262000",
+ typ="77",
+ rar=""
+},
+["18"]={
+ name="Inkay",
+ GMN="00686000",
+ typ="77",
+ rar=""
+},
+["19"]={
+ name="Pawniard",
+ GMN="00624000",
+ typ="88",
+ rar=""
+},
+["20"]={
+ name="Bisharp",
+ GMN="00625000",
+ typ="88",
+ rar=""
+},
+["21"]={
+ name="Honedge",
+ GMN="00679000",
+ typ="88",
+ rar=""
+},
+["22"]={
+ name="Snubbull",
+ GMN="00209000",
+ typ="99",
+ rar=""
+},
+["23"]={
+ name="Granbull",
+ GMN="00210000",
+ typ="99",
+ rar=""
+},
+["24"]={
+ name="Swirlix",
+ GMN="00684000",
+ typ="99",
+ rar=""
+},
+["25"]={
+ name="Farfetch'd",
+ GMN="00083000",
+ typ="121",
+ rar=""
+},
+["26"]={
+ name="Snorlax",
+ GMN="00143000",
+ typ="121",
+ rar=""
+},
+["27"]={
+ name="Miltank",
+ GMN="00241000",
+ typ="121",
+ rar=""
+},
+["28"]={
+ name="Skitty",
+ GMN="00300000",
+ typ="121",
+ rar=""
+},
+["29"]={
+ name="Bidoof",
+ GMN="00399000",
+ typ="121",
+ rar=""
+},
+["30"]={
+ name="Bunnelby",
+ GMN="00659000",
+ typ="121",
+ rar=""
+},
+["31"]={
+ name="Fletchling",
+ GMN="00661000",
+ typ="121",
+ rar=""
+},
+["32"]={
+ name="Furfrou",
+ GMN="00676000",
+ typ="121",
+ rar=""
+},
+["33"]={
+ name="Furfrou",
+ GMN="00676000",
+ typ="121",
+ rar=""
+},
+["34"]={
+ name="Crushing Hammer",
+ GMN="30000000",
+ typ="500",
+ rar=""
+},
+["35"]={
+ name="Poké Ball",
+ GMN="30000000",
+ typ="500",
+ rar=""
+},
+["36"]={
+ name="Pokémon Catcher",
+ GMN="30000000",
+ typ="500",
+ rar=""
+},
+["37"]={
+ name="Potion",
+ GMN="30000000",
+ typ="500",
+ rar=""
+},
+["38"]={
+ name="Switch",
+ GMN="30000000",
+ typ="500",
+ rar=""
+},
+["39"]={
+ name="Tierno",
+ GMN="40000000",
+ typ="500",
+ rar=""
+}}
+

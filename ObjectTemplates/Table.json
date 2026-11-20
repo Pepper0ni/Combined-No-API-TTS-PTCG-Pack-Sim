@@ -1,0 +1,53 @@
+    {
+      "Name": "Custom_Model",
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomMesh": {
+        "MeshURL": "https://gist.githubusercontent.com/anonymous/63ba50e83d623daa1740d0641694f06b/raw/de997e817a9c12bc5686dcb52425192b813b1948/gistfile1.txt",
+        "DiffuseURL": "https://images.freecreatives.com/wp-content/uploads/2015/08/free-metal-texture-1.jpg",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 2,
+        "TypeIndex": 4,
+        "CustomShader": {
+          "SpecularColor": {
+            "r": 0.396078438,
+            "g": 0.156862751,
+            "b": 0.0
+          },
+          "SpecularIntensity": 0.9,
+          "SpecularSharpness": 7.0,
+          "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+      },
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "XmlUI": ""
+    }

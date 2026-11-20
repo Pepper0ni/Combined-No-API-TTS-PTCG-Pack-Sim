@@ -1,0 +1,296 @@
+    {
+      "Name": "Custom_Tile",
+      "Nickname": "",
+      "Description": "",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 90.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": false,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "CustomImage": {
+        "ImageURL": "",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+          "Type": 0,
+          "Thickness": 0.1,
+          "Stackable": false,
+          "Stretch": true
+        }
+      },
+      "LuaScriptState": "{\"curImage\":22,\"curCut\":7,\"bench8\":false,\"revbench\":false,\"hand\":\"White\"}",
+      "XmlUI": "",
+      "PhysicsMaterial": {
+        "StaticFriction": 1.0,
+        "DynamicFriction": 1.0,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+      },
+      "Rigidbody": {
+        "Mass": 2.209358,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+      },
+      "AttachedSnapPoints": [
+        {
+          "Position": {
+            "x": -0.0025,
+            "y": 0.1,
+            "z": -0.715
+          }
+        },
+        {
+          "Position": {
+            "x": -0.0025,
+            "y": -0.9,
+            "z": -0.84
+          }
+        },
+        {
+          "Position": {
+            "x": 0.1975,
+            "y": 0.1,
+            "z": -0.4625
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": 1.537,
+            "y": 0.1,
+            "z": -0.401
+          }
+        },
+        {
+          "Position": {
+            "x": 1.263,
+            "y": 0.1,
+            "z": -0.401
+          }
+        },
+        {
+          "Position": {
+            "x": 1.537,
+            "y": 0.1,
+            "z": 0.03
+          }
+        },
+        {
+          "Position": {
+            "x": 1.263,
+            "y": 0.1,
+            "z": 0.03
+          }
+        },
+        {
+          "Position": {
+            "x": 1.537,
+            "y": 0.1,
+            "z": 0.461
+          }
+        },
+        {
+          "Position": {
+            "x": 1.263,
+            "y": 0.1,
+            "z": 0.461
+          }
+        },
+        {
+          "Position": {
+            "x": -1.41,
+            "y": 0.1,
+            "z": 0.03
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": -1.41,
+            "y": 0.1,
+            "z": 0.463
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": -1.41,
+            "y": 0.1,
+            "z": -0.38
+          }
+        },
+        {
+          "Position": {
+            "x": -1.36,
+            "y": 0.1,
+            "z": -0.76
+          }
+        },
+        {
+          "Position": {
+            "x": 0.44,
+            "y": 0.1,
+            "z": 0.7
+          }
+        },
+        {
+          "Position": {
+            "x": -0.02,
+            "y": 0.1,
+            "z": 0.7
+          }
+        },
+        {
+          "Position": {
+            "x": -0.48,
+            "y": 0.1,
+            "z": 0.7
+          }
+        },
+        {
+          "Position": {
+            "x": 0.44,
+            "y": -0.9,
+            "z": 0.575
+          }
+        },
+        {
+          "Position": {
+            "x": -0.02,
+            "y": -0.9,
+            "z": 0.575
+          }
+        },
+        {
+          "Position": {
+            "x": -0.48,
+            "y": -0.9,
+            "z": 0.575
+          }
+        },
+        {
+          "Position": {
+            "x": 0.64,
+            "y": 0.1,
+            "z": 0.9525
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": 0.18,
+            "y": 0.1,
+            "z": 0.9525
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": -0.28,
+            "y": 0.1,
+            "z": 0.9525
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": 0.9,
+            "y": 0.1,
+            "z": 0.7
+          }
+        },
+        {
+          "Position": {
+            "x": -0.94,
+            "y": 0.1,
+            "z": 0.7
+          }
+        },
+        {
+          "Position": {
+            "x": 0.9,
+            "y": -0.9,
+            "z": 0.575
+          }
+        },
+        {
+          "Position": {
+            "x": -0.94,
+            "y": -0.9,
+            "z": 0.575
+          }
+        },
+        {
+          "Position": {
+            "x": 1.1,
+            "y": 0.1,
+            "z": 0.9525
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        },
+        {
+          "Position": {
+            "x": -0.74,
+            "y": 0.1,
+            "z": 0.9525
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          }
+        }
+      ]
+    }

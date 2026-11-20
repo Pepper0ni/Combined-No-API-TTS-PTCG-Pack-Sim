@@ -1,0 +1,84 @@
+setName="Pokémon Rumble"
+DeckID=5056
+date="20091202"
+setID="ru1"
+cardData={["1"]={
+ name="Venusaur",
+ GMN="00003000",
+ typ="11"
+},
+["2"]={
+ name="Cherrim",
+ GMN="00421000",
+ typ="11"
+},
+["3"]={
+ name="Ninetales",
+ GMN="00038000",
+ typ="22"
+},
+["4"]={
+ name="Heatran",
+ GMN="00485000",
+ typ="22"
+},
+["5"]={
+ name="Starmie",
+ GMN="00121000",
+ typ="33"
+},
+["6"]={
+ name="Gyarados",
+ GMN="00130000",
+ typ="33"
+},
+["7"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+},
+["8"]={
+ name="Zapdos",
+ GMN="00145000",
+ typ="44"
+},
+["9"]={
+ name="Mewtwo",
+ GMN="00150000",
+ typ="55"
+},
+["10"]={
+ name="Mew",
+ GMN="00151000",
+ typ="55"
+},
+["11"]={
+ name="Diglett",
+ GMN="00050000",
+ typ="66"
+},
+["12"]={
+ name="Lucario",
+ GMN="00448000",
+ typ="66"
+},
+["13"]={
+ name="Skuntank",
+ GMN="00435000",
+ typ="77"
+},
+["14"]={
+ name="Bastiodon",
+ GMN="00411000",
+ typ="88"
+},
+["15"]={
+ name="Rattata",
+ GMN="00019000",
+ typ="121"
+},
+["16"]={
+ name="Bibarel",
+ GMN="00400000",
+ typ="121"
+}}

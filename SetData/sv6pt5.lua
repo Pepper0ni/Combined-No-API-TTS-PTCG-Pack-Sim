@@ -1,0 +1,729 @@
+art={"2467493883643887626/BB24F86788594D63A03AAF8D36A6EDAC8C376B87",
+   "2467493883643887212/E28A08535BF697FB43D909463299B9D48E1F01DD",
+   "2467493883643886748/3742F27228A8694B1BD44892B696DFBEAB3FDCE9",
+   "2467493883643886189/5E276A051D752BED1ADDEBFC9BC3BCA25A8DC4C3"
+}
+setName="Shrouded Fable"
+DeckID=17953
+date="20240802"
+setID="sv6pt5"
+dropSlots=[[{
+--1 energy
+  {cards={{'1','8'}},size=8,num=1,prefix='E',energy=true},
+--2 UR sup
+  {cards={{'86','89'}},size=4,num=0},
+--3 UR mons
+  {cards={{'80','85'}},size=6,num=0},
+--4 DR
+  {cards={'12','15',{'36','39'}},size=6,num=0},
+--5 rare
+  {cards={'6','20','21','25','32','42','46'},num=0},
+--6 HR
+  {cards={{'95','99'}},size=5,num=0},
+--7 SIR
+  {cards={{'90','94'}},size=5,num=0},
+--8 IR
+  {cards={{'65','79'}},size=15,num=0},
+--9 rev
+  {cards={{'1','11'},'13','14',{'16','35'},{'40','57'},'59','61','63','64'},size=55,num=0},
+--10 ACE
+  {cards={'58','60','62'},num=0},
+--11 U
+  {cards={'2','5','9','14','17','22','26','29','34','35','40','47',{'54','57'},'59','61','63','64'},size=20,num=3},
+--12 C
+  {cards={'1','3','4','7','8','10','11','13','16','18','19','23','24','27','28','30','31','33','41',{'43','45'},{'48','53'}},size=28,num=4},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/33.25},--UR sup
+  {slot=3,odds=1/25.43},--UR mons
+  {slot=4,odds=1/5.66},--DR
+  {slot=5}--R
+ },num=1},
+--rev/art/hyper
+ {rates={
+  {slot=6,odds=1/148.6},--HR
+  {slot=7,odds=1/73.1},--SIR
+  {slot=8,odds=1/12.58},--IR
+  {slot=9}--rev
+ },num=1},
+--rev/ace
+ {rates={
+  {slot=10,odds=1/21},
+  {slot=9}--rev
+ },num=1}
+}]]
+
+cardString=[[
+cardData={["1"]={
+ name="Joltik",
+ GMN="00595000",
+ typ="11",
+ rar="C"
+},
+["2"]={
+ name="Galvantula",
+ GMN="00596000",
+ typ="11",
+ rar="U"
+},
+["3"]={
+ name="Rowlet",
+ GMN="00722000",
+ typ="11",
+ rar="C"
+},
+["4"]={
+ name="Dartrix",
+ GMN="00723000",
+ typ="11",
+ rar="C"
+},
+["5"]={
+ name="Decidueye",
+ GMN="00724000",
+ typ="11",
+ rar="U"
+},
+["6"]={
+ name="Tapu Bulu",
+ GMN="00787000",
+ typ="11",
+ rar="R"
+},
+["7"]={
+ name="Houndour",
+ GMN="00228000",
+ typ="22",
+ rar="C"
+},
+["8"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="22",
+ rar="C"
+},
+["9"]={
+ name="Iron Moth",
+ GMN="00994000",
+ typ="22",
+ rar="U"
+},
+["10"]={
+ name="Horsea",
+ GMN="00116000",
+ typ="33",
+ rar="C"
+},
+["11"]={
+ name="Seadra",
+ GMN="00117000",
+ typ="33",
+ rar="C"
+},
+["12"]={
+ name="Kingdra ex",
+ GMN="00117500",
+ typ="33",
+ rar="DR"
+},
+["13"]={
+ name="Sneasel",
+ GMN="00215000",
+ typ="33",
+ rar="C"
+},
+["14"]={
+ name="Weavile",
+ GMN="00215500",
+ typ="33",
+ rar="U"
+},
+["15"]={
+ name="Revavroom ex",
+ GMN="00966000",
+ typ="44",
+ rar="DR"
+},
+["16"]={
+ name="Drowzee",
+ GMN="00096000",
+ typ="55",
+ rar="C"
+},
+["17"]={
+ name="Hypno",
+ GMN="00097000",
+ typ="55",
+ rar="U"
+},
+["18"]={
+ name="Duskull",
+ GMN="00355000",
+ typ="55",
+ rar="C"
+},
+["19"]={
+ name="Dusclops",
+ GMN="00356000",
+ typ="55",
+ rar="C"
+},
+["20"]={
+ name="Dusknoir",
+ GMN="00356500",
+ typ="55",
+ rar="R"
+},
+["21"]={
+ name="Cresselia",
+ GMN="00488000",
+ typ="55",
+ rar="R"
+},
+["22"]={
+ name="Sylveon",
+ GMN="00136500",
+ typ="55",
+ rar="U"
+},
+["23"]={
+ name="Croagunk",
+ GMN="00453000",
+ typ="66",
+ rar="C"
+},
+["24"]={
+ name="Toxicroak",
+ GMN="00454000",
+ typ="66",
+ rar="C"
+},
+["25"]={
+ name="Bloodmoon Ursaluna",
+ GMN="00217500",
+ typ="66",
+ rar="R"
+},
+["26"]={
+ name="Slither Wing",
+ GMN="00988000",
+ typ="66",
+ rar="U"
+},
+["27"]={
+ name="Zubat",
+ GMN="00041000",
+ typ="77",
+ rar="C"
+},
+["28"]={
+ name="Golbat",
+ GMN="00042000",
+ typ="77",
+ rar="C"
+},
+["29"]={
+ name="Crobat",
+ GMN="00042500",
+ typ="77",
+ rar="U"
+},
+["30"]={
+ name="Absol",
+ GMN="00359000",
+ typ="77",
+ rar="C"
+},
+["31"]={
+ name="Zorua",
+ GMN="00570000",
+ typ="77",
+ rar="C"
+},
+["32"]={
+ name="Zoroark",
+ GMN="00571000",
+ typ="77",
+ rar="R"
+},
+["33"]={
+ name="Inkay",
+ GMN="00686000",
+ typ="77",
+ rar="C"
+},
+["34"]={
+ name="Malamar",
+ GMN="00687000",
+ typ="77",
+ rar="U"
+},
+["35"]={
+ name="Yveltal",
+ GMN="00717000",
+ typ="77",
+ rar="U"
+},
+["36"]={
+ name="Okidogi ex",
+ GMN="01014000",
+ typ="77",
+ rar="DR"
+},
+["37"]={
+ name="Munkidori ex",
+ GMN="01015000",
+ typ="77",
+ rar="DR"
+},
+["38"]={
+ name="Fezandipiti ex",
+ GMN="01016000",
+ typ="77",
+ rar="DR"
+},
+["39"]={
+ name="Pecharunt ex",
+ GMN="01025000",
+ typ="77",
+ rar="DR"
+},
+["40"]={
+ name="Genesect",
+ GMN="00649000",
+ typ="88",
+ rar="U"
+},
+["41"]={
+ name="Cufant",
+ GMN="00878000",
+ typ="88",
+ rar="C"
+},
+["42"]={
+ name="Copperajah",
+ GMN="00879000",
+ typ="88",
+ rar="R"
+},
+["43"]={
+ name="Varoom",
+ GMN="00965000",
+ typ="88",
+ rar="C"
+},
+["44"]={
+ name="Axew",
+ GMN="00610000",
+ typ="110",
+ rar="C"
+},
+["45"]={
+ name="Fraxure",
+ GMN="00611000",
+ typ="110",
+ rar="C"
+},
+["46"]={
+ name="Haxorus",
+ GMN="00612000",
+ typ="110",
+ rar="R"
+},
+["47"]={
+ name="Kyurem",
+ GMN="00646000",
+ typ="110",
+ rar="U"
+},
+["48"]={
+ name="Meowth",
+ GMN="00052000",
+ typ="121",
+ rar="C"
+},
+["49"]={
+ name="Persian",
+ GMN="00053000",
+ typ="121",
+ rar="C"
+},
+["50"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121",
+ rar="C"
+},
+["51"]={
+ name="Furfrou",
+ GMN="00676000",
+ typ="121",
+ rar="C"
+},
+["52"]={
+ name="Stufful",
+ GMN="00759000",
+ typ="121",
+ rar="C"
+},
+["53"]={
+ name="Bewear",
+ GMN="00760000",
+ typ="121",
+ rar="C"
+},
+["54"]={
+ name="Academy at Night",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["55"]={
+ name="Binding Mochi",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["56"]={
+ name="Cassiopeia",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["57"]={
+ name="Colress's Tenacity",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["58"]={
+ name="Dangerous Laser",
+ GMN="30000000",
+ typ="500",
+ rar="ACESPECR"
+},
+["59"]={
+ name="Janine's Secret Art",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["60"]={
+ name="Neutralization Zone",
+ GMN="50000000",
+ typ="500",
+ rar="ACESPECR"
+},
+["61"]={
+ name="Night Stretcher",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["62"]={
+ name="Poké Vital A",
+ GMN="30000000",
+ typ="500",
+ rar="ACESPECR"
+},
+["63"]={
+ name="Powerglass",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["64"]={
+ name="Xerosic's Machinations",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["65"]={
+ name="Tapu Bulu",
+ GMN="00787000",
+ typ="11",
+ rar="IR"
+},
+["66"]={
+ name="Houndoom",
+ GMN="00229000",
+ typ="22",
+ rar="IR"
+},
+["67"]={
+ name="Horsea",
+ GMN="00116000",
+ typ="33",
+ rar="IR"
+},
+["68"]={
+ name="Duskull",
+ GMN="00355000",
+ typ="55",
+ rar="IR"
+},
+["69"]={
+ name="Dusclops",
+ GMN="00356000",
+ typ="55",
+ rar="IR"
+},
+["70"]={
+ name="Dusknoir",
+ GMN="00356500",
+ typ="55",
+ rar="IR"
+},
+["71"]={
+ name="Cresselia",
+ GMN="00488000",
+ typ="55",
+ rar="IR"
+},
+["72"]={
+ name="Munkidori",
+ GMN="01015000",
+ typ="55",
+ rar="IR"
+},
+["73"]={
+ name="Fezandipiti",
+ GMN="01016000",
+ typ="55",
+ rar="IR"
+},
+["74"]={
+ name="Okidogi",
+ GMN="01014000",
+ typ="66",
+ rar="IR"
+},
+["75"]={
+ name="Zorua",
+ GMN="00570000",
+ typ="77",
+ rar="IR"
+},
+["76"]={
+ name="Cufant",
+ GMN="00878000",
+ typ="88",
+ rar="IR"
+},
+["77"]={
+ name="Fraxure",
+ GMN="00611000",
+ typ="110",
+ rar="IR"
+},
+["78"]={
+ name="Persian",
+ GMN="00053000",
+ typ="121",
+ rar="IR"
+},
+["79"]={
+ name="Bewear",
+ GMN="00760000",
+ typ="121",
+ rar="IR"
+},
+["80"]={
+ name="Kingdra ex",
+ GMN="00117500",
+ typ="33",
+ rar="UR"
+},
+["81"]={
+ name="Revavroom ex",
+ GMN="00966000",
+ typ="44",
+ rar="UR"
+},
+["82"]={
+ name="Okidogi ex",
+ GMN="01014000",
+ typ="77",
+ rar="UR"
+},
+["83"]={
+ name="Munkidori ex",
+ GMN="01015000",
+ typ="77",
+ rar="UR"
+},
+["84"]={
+ name="Fezandipiti ex",
+ GMN="01016000",
+ typ="77",
+ rar="UR"
+},
+["85"]={
+ name="Pecharunt ex",
+ GMN="01025000",
+ typ="77",
+ rar="UR"
+},
+["86"]={
+ name="Cassiopeia",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["87"]={
+ name="Colress's Tenacity",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["88"]={
+ name="Janine's Secret Art",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["89"]={
+ name="Xerosic's Machinations",
+ GMN="40000000",
+ typ="500",
+ rar="UR"
+},
+["90"]={
+ name="Okidogi ex",
+ GMN="01014000",
+ typ="77",
+ rar="SIR"
+},
+["91"]={
+ name="Munkidori ex",
+ GMN="01015000",
+ typ="77",
+ rar="SIR"
+},
+["92"]={
+ name="Fezandipiti ex",
+ GMN="01016000",
+ typ="77",
+ rar="SIR"
+},
+["93"]={
+ name="Pecharunt ex",
+ GMN="01025000",
+ typ="77",
+ rar="SIR"
+},
+["94"]={
+ name="Cassiopeia",
+ GMN="40000000",
+ typ="500",
+ rar="SIR"
+},
+["95"]={
+ name="Pecharunt ex",
+ GMN="01025000",
+ typ="77",
+ rar="HR"
+},
+["96"]={
+ name="Earthen Vessel",
+ GMN="30000000",
+ typ="500",
+ rar="HR"
+},
+["97"]={
+ name="Powerglass",
+ GMN="60000000",
+ typ="500",
+ rar="HR"
+},
+["98"]={
+ name="Basic Darkness Energy",
+ GMN="90000000",
+ typ="77",
+ rar="HR"
+},
+["99"]={
+ name="Basic Metal Energy",
+ GMN="90000000",
+ typ="88",
+ rar="HR"
+}}
+]]
+
+energyString=[[energy={
+["1"]={
+ name="Basic Grass Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_001.jpg",
+ date="20230331",
+ ID=16259
+},
+["2"]={
+ name="Basic Fire Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_002.jpg",
+ date="20230331",
+ ID=16260
+},
+["3"]={
+ name="Basic Water Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_003.jpg",
+ date="20230331",
+ ID=16261
+},
+["4"]={
+ name="Basic Lightning Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_004.jpg",
+ date="20230331",
+ ID=16262
+},
+["5"]={
+ name="Basic Psychic Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_005.jpg",
+ date="20230331",
+ ID=16263
+},
+["6"]={
+ name="Basic Fighting Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_006.jpg",
+ date="20230331",
+ ID=16264
+},
+["7"]={
+ name="Basic Darkness Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_007.jpg",
+ date="20230331",
+ ID=16265
+},
+["8"]={
+ name="Basic Metal Energy",
+ GMN="90000000",
+ typ="500",
+ setName="Scarlet & Violet Energy",
+ image="https://pkmncards.com/wp-content/uploads/sve_en_008.jpg",
+ date="20230331",
+ ID=16266
+}}
+]]
+

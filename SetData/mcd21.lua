@@ -1,0 +1,144 @@
+art={"1890974789081477992/7B34A5B8B1CEBB2659C0B7A46232A9823A4BB766"
+}
+setName="McDonald's Collection 2021"
+DeckID=14085
+date="20210209"
+setID="mcd21"
+noBox=true
+dropSlots=[[{
+--1 RH
+  {cards={{1,25}},num=1,size=25},
+--2 C
+  {cards={{1,25}},num=3,size=25},
+}]]
+pullRates="{}"
+cardString=[[
+cardData={["1"]={
+ name="Bulbasaur",
+ GMN="00001000",
+ typ="11"
+},
+["2"]={
+ name="Chikorita",
+ GMN="00152000",
+ typ="11"
+},
+["3"]={
+ name="Treecko",
+ GMN="00252000",
+ typ="11"
+},
+["4"]={
+ name="Turtwig",
+ GMN="00387000",
+ typ="11"
+},
+["5"]={
+ name="Snivy",
+ GMN="00495000",
+ typ="11"
+},
+["6"]={
+ name="Chespin",
+ GMN="00650000",
+ typ="11"
+},
+["7"]={
+ name="Rowlet",
+ GMN="00722000",
+ typ="11"
+},
+["8"]={
+ name="Grookey",
+ GMN="00810000",
+ typ="11"
+},
+["9"]={
+ name="Charmander",
+ GMN="00004000",
+ typ="22"
+},
+["10"]={
+ name="Cyndaquil",
+ GMN="00155000",
+ typ="22"
+},
+["11"]={
+ name="Torchic",
+ GMN="00255000",
+ typ="22"
+},
+["12"]={
+ name="Chimchar",
+ GMN="00390000",
+ typ="22"
+},
+["13"]={
+ name="Tepig",
+ GMN="00498000",
+ typ="22"
+},
+["14"]={
+ name="Fennekin",
+ GMN="00653000",
+ typ="22"
+},
+["15"]={
+ name="Litten",
+ GMN="00725000",
+ typ="22"
+},
+["16"]={
+ name="Scorbunny",
+ GMN="00813000",
+ typ="22"
+},
+["17"]={
+ name="Squirtle",
+ GMN="00007000",
+ typ="33"
+},
+["18"]={
+ name="Totodile",
+ GMN="00158000",
+ typ="33"
+},
+["19"]={
+ name="Mudkip",
+ GMN="00258000",
+ typ="33"
+},
+["20"]={
+ name="Piplup",
+ GMN="00393000",
+ typ="33"
+},
+["21"]={
+ name="Oshawott",
+ GMN="00501000",
+ typ="33"
+},
+["22"]={
+ name="Froakie",
+ GMN="00656000",
+ typ="33"
+},
+["23"]={
+ name="Popplio",
+ GMN="00728000",
+ typ="33"
+},
+["24"]={
+ name="Sobble",
+ GMN="00816000",
+ typ="33"
+},
+["25"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44"
+}}
+]]
+
+energyString="energy={}"
+

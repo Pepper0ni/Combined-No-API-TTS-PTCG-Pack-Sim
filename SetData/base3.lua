@@ -1,0 +1,400 @@
+art={"1890974789081488413/49AA2CD4E848D8303AB7EDB1C0F0F1E9C0C92107",
+ "1890974789081502013/C2009D4F46B0D9813E942175E8B240EE7189C5A1",
+ "1890974789081510954/D053AEC6B4530FD7E0CE63A4D911E1203727F498"
+}
+setName="Fossil"
+DeckID=219
+date=19991010
+setID="base3"
+energyString="energy={}"
+dropSlots=[[{
+--1 U
+  {cards={{"31","45"},"58"},num=3,size=16},
+--2 RH
+  {cards={{"1","15"}},num=0,size=15},
+--3 R
+  {cards={{"16","30"}},num=0,size=15},
+--4 C
+  {cards={{"46","57"},{"59","62"}},num=7,size=16},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/3},--RH
+  {slot=3}--R
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Aerodactyl",
+ GMN="00142000",
+ typ="66",
+ rar="RH"
+},
+["2"]={
+ name="Articuno",
+ GMN="00144000",
+ typ="33",
+ rar="RH"
+},
+["3"]={
+ name="Ditto",
+ GMN="00132000",
+ typ="121",
+ rar="RH"
+},
+["4"]={
+ name="Dragonite",
+ GMN="00149000",
+ typ="121",
+ rar="RH"
+},
+["5"]={
+ name="Gengar",
+ GMN="00094000",
+ typ="55",
+ rar="RH"
+},
+["6"]={
+ name="Haunter",
+ GMN="00093000",
+ typ="55",
+ rar="RH"
+},
+["7"]={
+ name="Hitmonlee",
+ GMN="00106000",
+ typ="66",
+ rar="RH"
+},
+["8"]={
+ name="Hypno",
+ GMN="00097000",
+ typ="55",
+ rar="RH"
+},
+["9"]={
+ name="Kabutops",
+ GMN="00141000",
+ typ="66",
+ rar="RH"
+},
+["10"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33",
+ rar="RH"
+},
+["11"]={
+ name="Magneton",
+ GMN="00082000",
+ typ="44",
+ rar="RH"
+},
+["12"]={
+ name="Moltres",
+ GMN="00146000",
+ typ="22",
+ rar="RH"
+},
+["13"]={
+ name="Muk",
+ GMN="00089000",
+ typ="11",
+ rar="RH"
+},
+["14"]={
+ name="Raichu",
+ GMN="00026000",
+ typ="44",
+ rar="RH"
+},
+["15"]={
+ name="Zapdos",
+ GMN="00145000",
+ typ="44",
+ rar="RH"
+},
+["16"]={
+ name="Aerodactyl",
+ GMN="00142000",
+ typ="66",
+ rar="R"
+},
+["17"]={
+ name="Articuno",
+ GMN="00144000",
+ typ="33",
+ rar="R"
+},
+["18"]={
+ name="Ditto",
+ GMN="00132000",
+ typ="121",
+ rar="R"
+},
+["19"]={
+ name="Dragonite",
+ GMN="00149000",
+ typ="121",
+ rar="R"
+},
+["20"]={
+ name="Gengar",
+ GMN="00094000",
+ typ="55",
+ rar="R"
+},
+["21"]={
+ name="Haunter",
+ GMN="00093000",
+ typ="55",
+ rar="R"
+},
+["22"]={
+ name="Hitmonlee",
+ GMN="00106000",
+ typ="66",
+ rar="R"
+},
+["23"]={
+ name="Hypno",
+ GMN="00097000",
+ typ="55",
+ rar="R"
+},
+["24"]={
+ name="Kabutops",
+ GMN="00141000",
+ typ="66",
+ rar="R"
+},
+["25"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33",
+ rar="R"
+},
+["26"]={
+ name="Magneton",
+ GMN="00082000",
+ typ="44",
+ rar="R"
+},
+["27"]={
+ name="Moltres",
+ GMN="00146000",
+ typ="22",
+ rar="R"
+},
+["28"]={
+ name="Muk",
+ GMN="00089000",
+ typ="11",
+ rar="R"
+},
+["29"]={
+ name="Raichu",
+ GMN="00026000",
+ typ="44",
+ rar="R"
+},
+["30"]={
+ name="Zapdos",
+ GMN="00145000",
+ typ="44",
+ rar="R"
+},
+["31"]={
+ name="Arbok",
+ GMN="00024000",
+ typ="11",
+ rar="U"
+},
+["32"]={
+ name="Cloyster",
+ GMN="00091000",
+ typ="33",
+ rar="U"
+},
+["33"]={
+ name="Gastly",
+ GMN="00092000",
+ typ="55",
+ rar="U"
+},
+["34"]={
+ name="Golbat",
+ GMN="00042000",
+ typ="11",
+ rar="U"
+},
+["35"]={
+ name="Golduck",
+ GMN="00055000",
+ typ="33",
+ rar="U"
+},
+["36"]={
+ name="Golem",
+ GMN="00076000",
+ typ="66",
+ rar="U"
+},
+["37"]={
+ name="Graveler",
+ GMN="00075000",
+ typ="66",
+ rar="U"
+},
+["38"]={
+ name="Kingler",
+ GMN="00099000",
+ typ="33",
+ rar="U"
+},
+["39"]={
+ name="Magmar",
+ GMN="00126000",
+ typ="22",
+ rar="U"
+},
+["40"]={
+ name="Omastar",
+ GMN="00139000",
+ typ="33",
+ rar="U"
+},
+["41"]={
+ name="Sandslash",
+ GMN="00028000",
+ typ="66",
+ rar="U"
+},
+["42"]={
+ name="Seadra",
+ GMN="00117000",
+ typ="33",
+ rar="U"
+},
+["43"]={
+ name="Slowbro",
+ GMN="00080000",
+ typ="55",
+ rar="U"
+},
+["44"]={
+ name="Tentacruel",
+ GMN="00073000",
+ typ="33",
+ rar="U"
+},
+["45"]={
+ name="Weezing",
+ GMN="00110000",
+ typ="11",
+ rar="U"
+},
+["46"]={
+ name="Ekans",
+ GMN="00023000",
+ typ="11",
+ rar="C"
+},
+["47"]={
+ name="Geodude",
+ GMN="00074000",
+ typ="66",
+ rar="C"
+},
+["48"]={
+ name="Grimer",
+ GMN="00088000",
+ typ="11",
+ rar="C"
+},
+["49"]={
+ name="Horsea",
+ GMN="00116000",
+ typ="33",
+ rar="C"
+},
+["50"]={
+ name="Kabuto",
+ GMN="00140000",
+ typ="66",
+ rar="C"
+},
+["51"]={
+ name="Krabby",
+ GMN="00098000",
+ typ="33",
+ rar="C"
+},
+["52"]={
+ name="Omanyte",
+ GMN="00138000",
+ typ="33",
+ rar="C"
+},
+["53"]={
+ name="Psyduck",
+ GMN="00054000",
+ typ="33",
+ rar="C"
+},
+["54"]={
+ name="Shellder",
+ GMN="00090000",
+ typ="33",
+ rar="C"
+},
+["55"]={
+ name="Slowpoke",
+ GMN="00079000",
+ typ="55",
+ rar="C"
+},
+["56"]={
+ name="Tentacool",
+ GMN="00072000",
+ typ="33",
+ rar="C"
+},
+["57"]={
+ name="Zubat",
+ GMN="00041000",
+ typ="11",
+ rar="C"
+},
+["58"]={
+ name="Mr. Fuji",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["59"]={
+ name="Energy Search",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["60"]={
+ name="Gambler",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["61"]={
+ name="Recycle",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["62"]={
+ name="Mysterious Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+}}
+]]

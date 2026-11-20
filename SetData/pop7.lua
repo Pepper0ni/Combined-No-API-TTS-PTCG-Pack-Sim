@@ -1,0 +1,134 @@
+art={"1890974789082763553/504BAEF38429048A7CE2D01D958578995E41DB3A"
+}
+setName="POP Series 7"
+DeckID=4136
+date="20080301"
+setID="pop7"
+noBox=true
+dropSlots=[[{
+--1 R
+  {cards={{'1','5'}},num=0,size=5},
+--2 U
+  {cards={{'6','10'}},num=0,size=5},
+--3 C
+  {cards={{'11','17'}},num=0,size=7},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/19},--R
+  {slot=3}--C
+ },num=1},
+--unc
+ {rates={
+  {slot=2,odds=0.326},--U
+  {slot=3}--C
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Ampharos",
+ GMN="00181000",
+ typ="44",
+ rar="R"
+},
+["2"]={
+ name="Gallade",
+ GMN="00282500",
+ typ="66",
+ rar="R"
+},
+["3"]={
+ name="Latias",
+ GMN="00380000",
+ typ="121",
+ rar="R"
+},
+["4"]={
+ name="Latios",
+ GMN="00381000",
+ typ="121",
+ rar="R"
+},
+["5"]={
+ name="Mothim",
+ GMN="00414000",
+ typ="11",
+ rar="R"
+},
+["6"]={
+ name="Delibird",
+ GMN="00225000",
+ typ="33",
+ rar="U"
+},
+["7"]={
+ name="Flaaffy",
+ GMN="00180000",
+ typ="44",
+ rar="U"
+},
+["8"]={
+ name="Kirlia",
+ GMN="00281000",
+ typ="55",
+ rar="U"
+},
+["9"]={
+ name="Stantler",
+ GMN="00234000",
+ typ="121",
+ rar="U"
+},
+["10"]={
+ name="Wormadam Sandy Cloak",
+ GMN="00413000",
+ typ="66",
+ rar="U"
+},
+["11"]={
+ name="Burmy Plant Cloak",
+ GMN="00412000",
+ typ="11",
+ rar="C"
+},
+["12"]={
+ name="Burmy Sandy Cloak",
+ GMN="00412000",
+ typ="11",
+ rar="C"
+},
+["13"]={
+ name="Corsola",
+ GMN="00222000",
+ typ="33",
+ rar="C"
+},
+["14"]={
+ name="Mareep",
+ GMN="00179000",
+ typ="44",
+ rar="C"
+},
+["15"]={
+ name="Ralts",
+ GMN="00280000",
+ typ="55",
+ rar="C"
+},
+["16"]={
+ name="Sentret",
+ GMN="00161000",
+ typ="121",
+ rar="C"
+},
+["17"]={
+ name="Spinda",
+ GMN="00327000",
+ typ="121",
+ rar="C"
+}}
+]]
+
+energyString="energy={}"
+

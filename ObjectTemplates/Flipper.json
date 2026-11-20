@@ -1,0 +1,238 @@
+    {
+      "Name": "Custom_Model_Infinite_Bag",
+      "Nickname": "Flip-O-Matic",
+      "Description": "Click a number and it will flip that many coins.\n\nFlipping again or pressing X will clean up the old coins. You can toggle automatic coin destruction and print the roll results in the right click menu.",
+      "GMNotes": "",
+      "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+      },
+      "LayoutGroupSortIndex": 0,
+      "Value": 0,
+      "Locked": true,
+      "Grid": true,
+      "Snap": true,
+      "IgnoreFoW": false,
+      "MeasureMovement": false,
+      "DragSelectable": true,
+      "Autoraise": true,
+      "Sticky": true,
+      "Tooltip": true,
+      "GridProjection": false,
+      "HideWhenFaceDown": false,
+      "Hands": false,
+      "MaterialIndex": -1,
+      "MeshIndex": -1,
+      "CustomMesh": {
+        "MeshURL": "http://pastebin.com/raw/ThPbjFdb",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1847053979883538294/4D5A60331BE962FF1DE586C76EA306BED4CAF56D/",
+        "NormalURL": "",
+        "ColliderURL": "http://pastebin.com/raw/ThPbjFdb",
+        "Convex": true,
+        "MaterialIndex": 1,
+        "TypeIndex": 7,
+        "CastShadows": true
+      },
+      "LuaScriptState": "{\"printFlips\":false,\"flipCleanup\":\"off\",\"coins\":{},\"curCoin\":268,\"curColor\":{\"r\":0.5372549295425415,\"g\":0.250980406999588,\"b\":0.0117647061124444,\"a\":1}}",
+      "XmlUI": "",
+      "ContainedObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -0.0887318254,
+            "posY": 1.07317936,
+            "posZ": 36.7054939,
+            "rotX": 0.111586079,
+            "rotY": 0.0294272434,
+            "rotZ": 359.993225,
+            "scaleX": 0.5500002,
+            "scaleY": 0.5500002,
+            "scaleZ": 0.5500002
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.72,
+            "g": 0.3999999,
+            "b": 0.0799999
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1895469594968982672/1E3A4D48F3F98FF6E52D28C58C73054EEBB35527/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1304304501054026532/3FC63DC221D5A8637FC64AFBC41B0FDBD0E3E938/",
+            "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/1304304501054026988/519D4C62BF741DB6B0A51374369287E51E6CA2ED/",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1895469594972233391/AB9A1EA78765297657F10694FB459E1FD1B47636/",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 3,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.05,
+              "SpecularSharpness": 7.0,
+              "FresnelStrength": 0.499999732
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "PhysicsMaterial": {
+            "StaticFriction": 1.0,
+            "DynamicFriction": 0.3,
+            "Bounciness": 0.3,
+            "FrictionCombine": 0,
+            "BounceCombine": 0
+          },
+          "Rigidbody": {
+            "Mass": 1.0,
+            "Drag": 0.1,
+            "AngularDrag": 0.1,
+            "UseGravity": true
+          },
+          "RotationValues": [
+            {
+              "Value": "Heads",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "Tails",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 180.0
+              }
+            }
+          ]
+        }
+      ],
+      "ChildObjects": [
+        {
+          "Name": "Custom_Model",
+          "Transform": {
+            "posX": -6.661338E-16,
+            "posY": 0.0499999523,
+            "posZ": 0.0,
+            "rotX": 2.71762383E-06,
+            "rotY": 9.999999,
+            "rotZ": 2.37761242E-07,
+            "scaleX": 0.2750001,
+            "scaleY": 1.37500048,
+            "scaleZ": 0.2750001
+          },
+          "Nickname": "",
+          "Description": "",
+          "GMNotes": "",
+          "AltLookAngle": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "ColorDiffuse": {
+            "r": 0.5372549,
+            "g": 0.250980377,
+            "b": 0.0117647061
+          },
+          "LayoutGroupSortIndex": 0,
+          "Value": 0,
+          "Locked": false,
+          "Grid": true,
+          "Snap": true,
+          "IgnoreFoW": false,
+          "MeasureMovement": false,
+          "DragSelectable": true,
+          "Autoraise": true,
+          "Sticky": true,
+          "Tooltip": true,
+          "GridProjection": false,
+          "HideWhenFaceDown": false,
+          "Hands": false,
+          "CustomMesh": {
+            "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1895469594968982672/1E3A4D48F3F98FF6E52D28C58C73054EEBB35527/",
+            "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1304304501054026532/3FC63DC221D5A8637FC64AFBC41B0FDBD0E3E938/",
+            "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/1304304501054026988/519D4C62BF741DB6B0A51374369287E51E6CA2ED/",
+            "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1895469594972233391/AB9A1EA78765297657F10694FB459E1FD1B47636/",
+            "Convex": true,
+            "MaterialIndex": 0,
+            "TypeIndex": 3,
+            "CustomShader": {
+              "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+              },
+              "SpecularIntensity": 0.05,
+              "SpecularSharpness": 7.0,
+              "FresnelStrength": 0.499999732
+            },
+            "CastShadows": true
+          },
+          "LuaScript": "",
+          "LuaScriptState": "",
+          "XmlUI": "",
+          "PhysicsMaterial": {
+            "StaticFriction": 1.0,
+            "DynamicFriction": 0.3,
+            "Bounciness": 0.3,
+            "FrictionCombine": 0,
+            "BounceCombine": 0
+          },
+          "Rigidbody": {
+            "Mass": 1.0,
+            "Drag": 0.1,
+            "AngularDrag": 0.1,
+            "UseGravity": true
+          },
+          "RotationValues": [
+            {
+              "Value": "Heads",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 0.0
+              }
+            },
+            {
+              "Value": "Tails",
+              "Rotation": {
+                "x": 0.0,
+                "y": 180.0,
+                "z": 180.0
+              }
+            }
+          ]
+        }
+      ]
+    }

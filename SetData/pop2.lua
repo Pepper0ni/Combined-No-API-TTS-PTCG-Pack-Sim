@@ -1,0 +1,134 @@
+art={"1890974789082569778/BC2679CB39620513D422573998F854A2B9DBEE1B"
+}
+setName="POP Series 2"
+DeckID=2707
+date="20051031"
+setID="pop2"
+noBox=true
+dropSlots=[[{
+--1 R
+  {cards={{'1','6'},'17'},num=0,size=7},
+--2 U
+  {cards={{'7','11'}},num=0,size=5},
+--3 C
+  {cards={{'12','16'}},num=0,size=5},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/8.125},--R
+  {slot=3}--C
+ },num=1},
+--unc
+ {rates={
+  {slot=2,odds=0.315},--U
+  {slot=3}--C
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Entei",
+ GMN="00244000",
+ typ="22",
+ rar="R"
+},
+["2"]={
+ name="Pidgeot",
+ GMN="00018000",
+ typ="121",
+ rar="R"
+},
+["3"]={
+ name="Raikou",
+ GMN="00243000",
+ typ="44",
+ rar="R"
+},
+["4"]={
+ name="Suicune",
+ GMN="00245000",
+ typ="33",
+ rar="R"
+},
+["5"]={
+ name="Tauros",
+ GMN="00128000",
+ typ="121",
+ rar="R"
+},
+["6"]={
+ name="Venusaur",
+ GMN="00003000",
+ typ="11",
+ rar="R"
+},
+["7"]={
+ name="Ivysaur",
+ GMN="00002000",
+ typ="11",
+ rar="U"
+},
+["8"]={
+ name="Mr. Briney's Compassion",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["9"]={
+ name="Multi Technical Machine 01",
+ GMN="60000000",
+ typ="500",
+ rar="U"
+},
+["10"]={
+ name="Pokémon Park",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["11"]={
+ name="TV Reporter",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["12"]={
+ name="Bulbasaur",
+ GMN="00001000",
+ typ="11",
+ rar="C"
+},
+["13"]={
+ name="Cacnea",
+ GMN="00331000",
+ typ="11",
+ rar="C"
+},
+["14"]={
+ name="Luvdisc",
+ GMN="00370000",
+ typ="33",
+ rar="C"
+},
+["15"]={
+ name="Phanpy",
+ GMN="00231000",
+ typ="66",
+ rar="C"
+},
+["16"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="C"
+},
+["17"]={
+ name="Celebi ex",
+ GMN="00251000",
+ typ="55",
+ rar="R"
+}}
+]]
+
+energyString="energy={}"
+

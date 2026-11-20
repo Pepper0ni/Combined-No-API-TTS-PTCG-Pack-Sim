@@ -1,0 +1,152 @@
+art={"1890974789081506548/60946585A08190A3AA80CDFDDF2F5838FE667FDA",
+   "1890974789081511433/9A5577A68D3D1D711268DB3CC4EC595FFDEE30A7",
+   "1890974789081473026/9580400186EC1BFC5B2A2F1D4841E118918B3873",
+   "1890974789081491490/81CED11D4E75BBC796E0961BA11A1E1E37B53561",
+   "1890974789081493227/C51C5072D90AF3C6C4359A1E9356354C00F548C6"
+}
+setName="Dragon Vault"
+DeckID=6399
+date="20121005"
+setID="dv1"
+noBox=true
+dropSlots=[[{
+--1 RS --randomly positioned in real packs
+  {cards={"21"},num=0},
+--2 RH
+  {cards={{"1","20"}},num=4,size=20},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/72},--RS
+  {slot=2}--RH
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Dratini",
+ GMN="00147000",
+ typ="110",
+ rar="RH"
+},
+["2"]={
+ name="Dratini",
+ GMN="00147000",
+ typ="110",
+ rar="RH"
+},
+["3"]={
+ name="Dragonair",
+ GMN="00148000",
+ typ="110",
+ rar="RH"
+},
+["4"]={
+ name="Dragonair",
+ GMN="00148000",
+ typ="110",
+ rar="RH"
+},
+["5"]={
+ name="Dragonite",
+ GMN="00149000",
+ typ="110",
+ rar="RH"
+},
+["6"]={
+ name="Bagon",
+ GMN="00371000",
+ typ="110",
+ rar="RH"
+},
+["7"]={
+ name="Shelgon",
+ GMN="00372000",
+ typ="110",
+ rar="RH"
+},
+["8"]={
+ name="Salamence",
+ GMN="00373000",
+ typ="110",
+ rar="RH"
+},
+["9"]={
+ name="Latias",
+ GMN="00380000",
+ typ="110",
+ rar="RH"
+},
+["10"]={
+ name="Latios",
+ GMN="00381000",
+ typ="110",
+ rar="RH"
+},
+["11"]={
+ name="Rayquaza",
+ GMN="00384000",
+ typ="110",
+ rar="RH"
+},
+["12"]={
+ name="Axew",
+ GMN="00610000",
+ typ="110",
+ rar="RH"
+},
+["13"]={
+ name="Axew",
+ GMN="00610000",
+ typ="110",
+ rar="RH"
+},
+["14"]={
+ name="Fraxure",
+ GMN="00611000",
+ typ="110",
+ rar="RH"
+},
+["15"]={
+ name="Fraxure",
+ GMN="00611000",
+ typ="110",
+ rar="RH"
+},
+["16"]={
+ name="Haxorus",
+ GMN="00612000",
+ typ="110",
+ rar="RH"
+},
+["17"]={
+ name="Druddigon",
+ GMN="00621000",
+ typ="110",
+ rar="RH"
+},
+["18"]={
+ name="Exp. Share",
+ GMN="60000000",
+ typ="500"
+},
+["19"]={
+ name="First Ticket",
+ GMN="30000000",
+ typ="500"
+},
+["20"]={
+ name="Super Rod",
+ GMN="30000000",
+ typ="500",
+ rar="RH"
+},
+["21"]={
+ name="Kyurem",
+ GMN="00646000",
+ typ="110"
+}}
+]]
+
+energyString="energy={}"
+

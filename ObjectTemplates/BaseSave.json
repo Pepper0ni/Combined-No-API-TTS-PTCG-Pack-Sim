@@ -1,0 +1,107 @@
+{
+  "SaveName": "Pokémon TCG Updated",
+  "EpochTime": 1794670308,
+  "Date": "11/14/2026 3:31:48 PM",
+  "VersionNumber": "v14.2.2",
+  "GameMode": "Pokémon TCG",
+  "GameType": "Game",
+  "GameComplexity": "Low Complexity",
+  "PlayingTime": [
+    10,
+    60
+  ],
+  "PlayerCounts": [
+    2,
+    6
+  ],
+  "Tags": [
+    "Card Games",
+    "Scripting",
+    "Pokémon",
+    "Sealed",
+    "Pack Simulator",
+    "Draft",
+    "PTCG",
+    "Cards",
+    "Rooms"
+  ],
+  "Gravity": 0.498315871,
+  "PlayArea": 1.0,
+  "Table": "Table_None",
+  "Sky": "Sky_Museum",
+  "Note": "",
+  "TabStates": {},
+  "Grid": {
+    "Type": 0,
+    "Lines": false,
+    "Color": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0
+    },
+    "Opacity": 0.75,
+    "ThickLines": false,
+    "Snapping": false,
+    "Offset": false,
+    "BothSnapping": false,
+    "xSize": 0.86,
+    "ySize": 0.86,
+    "PosOffset": {
+      "x": 0.0,
+      "y": 1.0,
+      "z": 0.0
+    }
+  },
+  "Lighting": {
+    "LightIntensity": 0.572,
+    "LightColor": {
+      "r": 1.0,
+      "g": 0.98,
+      "b": 0.89
+    },
+    "AmbientIntensity": 1.39600039,
+    "AmbientType": 1,
+    "AmbientSkyColor": {
+      "r": 0.664,
+      "g": 0.664,
+      "b": 0.664
+    },
+    "AmbientEquatorColor": {
+      "r": 0.5,
+      "g": 0.5,
+      "b": 0.5
+    },
+    "AmbientGroundColor": {
+      "r": 0.538,
+      "g": 0.538,
+      "b": 0.538
+    },
+    "ReflectionIntensity": 1.0,
+    "LutIndex": 0,
+    "LutContribution": 1.0,
+    "LutURL": ""
+  },
+  "Hands": {
+    "Enable": true,
+    "DisableUnused": true,
+    "Hiding": 0
+  },
+  "ComponentTags": {
+    "labels": []
+  },
+  "Turns": {
+    "Enable": false,
+    "Type": 0,
+    "TurnOrder": [],
+    "Reverse": false,
+    "SkipEmpty": false,
+    "DisableInteractions": false,
+    "PassTurns": true,
+    "TurnColor": ""
+  },
+  "DecalPallet": [],
+  "LuaScript": "table_GUIDs = {\"c8769f\", --game table\n \"92474b\", --front table\n \"5aa343\", --bottom box table\n \"6ef27e\", --red side table\n \"e43eb8\", --white side table\n \"492aad\", --lowest front\n \"926b01\", --low front\n \"ba52c1\", -- mid front\n \"c8c425\", -- high front\n \"003ed8\", -- highest front\n \"36d388\", -- lowest back\n \"a19200\", -- low back\n \"d254ce\", -- mid back\n \"470624\", -- high back\n \"cd0880\" -- highest back\n}\n\nfunction onLoad()\n for k,v in pairs(table_GUIDs) do\n  getObjectFromGUID(v).interactable = false\n end\nend",
+  "LuaScriptState": "",
+  "XmlUI": "",
+  "ObjectStates": []
+}

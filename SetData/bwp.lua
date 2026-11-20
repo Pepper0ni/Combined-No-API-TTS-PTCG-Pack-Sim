@@ -1,0 +1,711 @@
+setName="BW Black Star Promos"
+DeckID=5617
+date="20110301"
+setID="bwp"
+cardData={["BW01"]={
+ name="Snivy",
+ GMN="00495000",
+ typ="11",
+ rar="P",
+ ID=5618
+},
+["BW02"]={
+ name="Tepig",
+ GMN="00498000",
+ typ="22",
+ rar="P",
+ ID=5619
+},
+["BW03"]={
+ name="Oshawott",
+ GMN="00501000",
+ typ="33",
+ rar="P",
+ ID=5620
+},
+["BW004"]={
+ name="Reshiram",
+ GMN="00643000",
+ typ="22",
+ rar="P",
+ ID=5621
+},
+["BW005"]={
+ name="Zekrom",
+ GMN="00644000",
+ typ="44",
+ rar="P",
+ ID=5622
+},
+["BW06"]={
+ name="Snivy",
+ GMN="00495000",
+ typ="11",
+ rar="P",
+ ID=5623
+},
+["BW07"]={
+ name="Tepig",
+ GMN="00498000",
+ typ="22",
+ rar="P",
+ ID=5624
+},
+["BW08"]={
+ name="Oshawott",
+ GMN="00501000",
+ typ="33",
+ rar="P",
+ ID=5625
+},
+["BW09"]={
+ name="Zoroark",
+ GMN="00571000",
+ typ="77",
+ rar="P",
+ ID=5626
+},
+["BW10"]={
+ name="Axew",
+ GMN="00610000",
+ typ="121",
+ rar="P",
+ ID=5627
+},
+["BW11"]={
+ name="Pansage",
+ GMN="00511000",
+ typ="11",
+ rar="P",
+ ID=5628
+},
+["BW12"]={
+ name="Zorua",
+ GMN="00570000",
+ typ="77",
+ rar="P",
+ ID=5629
+},
+["BW13"]={
+ name="Minccino",
+ GMN="00572000",
+ typ="121",
+ rar="P",
+ ID=5630
+},
+["BW14"]={
+ name="Pansage",
+ GMN="00511000",
+ typ="11",
+ rar="P",
+ ID=5631
+},
+["BW15"]={
+ name="Pidove",
+ GMN="00519000",
+ typ="121",
+ rar="P",
+ ID=5632
+},
+["BW16"]={
+ name="Axew",
+ GMN="00610000",
+ typ="121",
+ rar="P",
+ ID=5633
+},
+["BW17"]={
+ name="Ducklett",
+ GMN="00580000",
+ typ="33",
+ rar="P",
+ ID=5634
+},
+["BW18"]={
+ name="Darumaka",
+ GMN="00554000",
+ typ="22",
+ rar="P",
+ ID=5635
+},
+["BW19"]={
+ name="Zoroark",
+ GMN="00571000",
+ typ="77",
+ rar="P",
+ ID=5636
+},
+["BW20"]={
+ name="Serperior",
+ GMN="00497000",
+ typ="11",
+ rar="P",
+ ID=5637
+},
+["BW21"]={
+ name="Emboar",
+ GMN="00500000",
+ typ="22",
+ rar="P",
+ ID=5638
+},
+["BW22"]={
+ name="Samurott",
+ GMN="00503000",
+ typ="33",
+ rar="P",
+ ID=5639
+},
+["BW23"]={
+ name="Reshiram",
+ GMN="00643000",
+ typ="22",
+ rar="P",
+ ID=5640
+},
+["BW24"]={
+ name="Zekrom",
+ GMN="00644000",
+ typ="44",
+ rar="P",
+ ID=5641
+},
+["BW25"]={
+ name="Scraggy",
+ GMN="00559000",
+ typ="77",
+ rar="P",
+ ID=5642
+},
+["BW26"]={
+ name="Axew",
+ GMN="00610000",
+ typ="121",
+ rar="P",
+ ID=5643
+},
+["BW27"]={
+ name="Litwick",
+ GMN="00607000",
+ typ="55",
+ rar="P",
+ ID=5644
+},
+["BW28"]={
+ name="Tropical Beach",
+ GMN="50000000",
+ typ="500",
+ rar="P",
+ ID=5645
+},
+["BW29"]={
+ name="Victory Cup",
+ GMN="30000000",
+ typ="500",
+ rar="P",
+ ID=5646
+},
+["BW30"]={
+ name="Victory Cup",
+ GMN="30000000",
+ typ="500",
+ rar="P",
+ ID=5647
+},
+["BW31"]={
+ name="Victory Cup",
+ GMN="30000000",
+ typ="500",
+ rar="P",
+ ID=5648
+},
+["BW32"]={
+ name="Victini",
+ GMN="00494000",
+ typ="22",
+ rar="P",
+ ID=5649
+},
+["BW33"]={
+ name="Riolu",
+ GMN="00447000",
+ typ="66",
+ rar="P",
+ ID=5650
+},
+["BW34"]={
+ name="Luxio",
+ GMN="00404000",
+ typ="44",
+ rar="P",
+ ID=5651
+},
+["BW35"]={
+ name="Meowth",
+ GMN="00052000",
+ typ="121",
+ rar="P",
+ ID=5652
+},
+["BW36"]={
+ name="Reshiram-EX",
+ GMN="00643003",
+ typ="22",
+ rar="P",
+ ID=5653
+},
+["BW37"]={
+ name="Kyurem-EX",
+ GMN="00646003",
+ typ="33",
+ rar="P",
+ ID=5654
+},
+["BW38"]={
+ name="Zekrom-EX",
+ GMN="00644003",
+ typ="44",
+ rar="P",
+ ID=5655
+},
+["BW39"]={
+ name="Battle City",
+ GMN="50000000",
+ typ="500",
+ rar="P",
+ ID=5656
+},
+["BW40"]={
+ name="Volcarona",
+ GMN="00637000",
+ typ="22",
+ rar="P",
+ ID=5657
+},
+["BW41"]={
+ name="Thundurus",
+ GMN="00642000",
+ typ="44",
+ rar="P",
+ ID=5658
+},
+["BW42"]={
+ name="Tornadus",
+ GMN="00641000",
+ typ="121",
+ rar="P",
+ ID=5659
+},
+["BW43"]={
+ name="Landorus",
+ GMN="00645000",
+ typ="66",
+ rar="P",
+ ID=5660
+},
+["BW44"]={
+ name="Kyurem",
+ GMN="00646000",
+ typ="33",
+ rar="P",
+ ID=5661
+},
+["BW45"]={
+ name="Mewtwo-EX",
+ GMN="00150003",
+ typ="55",
+ rar="P",
+ ID=5662
+},
+["BW46"]={
+ name="Darkrai-EX",
+ GMN="00491003",
+ typ="77",
+ rar="P",
+ ID=5663
+},
+["BW47"]={
+ name="Rayquaza-EX",
+ GMN="00384003",
+ typ="110",
+ rar="P",
+ ID=5664
+},
+["BW48"]={
+ name="Altaria",
+ GMN="00334000",
+ typ="110",
+ rar="P",
+ ID=5665
+},
+["BW49"]={
+ name="Lilligant",
+ GMN="00549000",
+ typ="11",
+ rar="P",
+ ID=5666
+},
+["BW50"]={
+ name="Tropical Beach",
+ GMN="50000000",
+ typ="500",
+ rar="P",
+ ID=5667
+},
+["BW51"]={
+ name="Crobat",
+ GMN="00042500",
+ typ="55",
+ rar="P",
+ ID=5668
+},
+["BW52"]={
+ name="Lillipup",
+ GMN="00506000",
+ typ="121",
+ rar="P",
+ ID=5669
+},
+["BW53"]={
+ name="Flygon",
+ GMN="00330000",
+ typ="110",
+ rar="P",
+ ID=5670
+},
+["BW54"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="P",
+ ID=5671
+},
+["BW55"]={
+ name="Elgyem",
+ GMN="00605000",
+ typ="55",
+ rar="P",
+ ID=5672
+},
+["BW56"]={
+ name="Empoleon",
+ GMN="00395000",
+ typ="33",
+ rar="P",
+ ID=5673
+},
+["BW57"]={
+ name="Haxorus",
+ GMN="00612000",
+ typ="110",
+ rar="P",
+ ID=5674
+},
+["BW58"]={
+ name="Black Kyurem",
+ GMN="00646000",
+ typ="110",
+ rar="P",
+ ID=5675
+},
+["BW59"]={
+ name="White Kyurem",
+ GMN="00646000",
+ typ="110",
+ rar="P",
+ ID=5676
+},
+["BW60"]={
+ name="Keldeo",
+ GMN="00647000",
+ typ="33",
+ rar="P",
+ ID=5677
+},
+["BW61"]={
+ name="Keldeo-EX",
+ GMN="00647003",
+ typ="33",
+ rar="P",
+ ID=5678
+},
+["BW62"]={
+ name="Black Kyurem-EX",
+ GMN="00646003",
+ typ="110",
+ rar="P",
+ ID=5679
+},
+["BW63"]={
+ name="White Kyurem-EX",
+ GMN="00646003",
+ typ="110",
+ rar="P",
+ ID=5680
+},
+["BW64"]={
+ name="Drifblim",
+ GMN="00426000",
+ typ="55",
+ rar="P",
+ ID=5681
+},
+["BW65"]={
+ name="Jigglypuff",
+ GMN="00039000",
+ typ="121",
+ rar="P",
+ ID=5682
+},
+["BW66"]={
+ name="Ninetales",
+ GMN="00038000",
+ typ="22",
+ rar="P",
+ ID=5683
+},
+["BW67"]={
+ name="Ampharos",
+ GMN="00181000",
+ typ="44",
+ rar="P",
+ ID=5684
+},
+["BW68"]={
+ name="Meloetta",
+ GMN="00648000",
+ typ="55",
+ rar="P",
+ ID=5685
+},
+["BW69"]={
+ name="Meloetta",
+ GMN="00648000",
+ typ="66",
+ rar="P",
+ ID=5686
+},
+["BW70"]={
+ name="Virizion",
+ GMN="00640000",
+ typ="11",
+ rar="P",
+ ID=5687
+},
+["BW71"]={
+ name="Terrakion",
+ GMN="00639000",
+ typ="66",
+ rar="P",
+ ID=5688
+},
+["BW72"]={
+ name="Cobalion",
+ GMN="00638000",
+ typ="88",
+ rar="P",
+ ID=5689
+},
+["BW73"]={
+ name="Darkrai",
+ GMN="00491000",
+ typ="77",
+ rar="P",
+ ID=5690
+},
+["BW74"]={
+ name="Giratina",
+ GMN="00487000",
+ typ="55",
+ rar="P",
+ ID=5691
+},
+["BW75"]={
+ name="Metagross",
+ GMN="00376000",
+ typ="55",
+ rar="P",
+ ID=5692
+},
+["BW76"]={
+ name="Electrode",
+ GMN="00101000",
+ typ="44",
+ rar="P",
+ ID=5693
+},
+["BW77"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="P",
+ ID=5694
+},
+["BW78"]={
+ name="Raichu",
+ GMN="00026000",
+ typ="44",
+ rar="P",
+ ID=5695
+},
+["BW79"]={
+ name="Landorus",
+ GMN="00645000",
+ typ="66",
+ rar="P",
+ ID=5696
+},
+["BW80"]={
+ name="Druddigon",
+ GMN="00621000",
+ typ="110",
+ rar="P",
+ ID=5697
+},
+["BW81"]={
+ name="Thundurus-EX",
+ GMN="00642003",
+ typ="44",
+ rar="P",
+ ID=5698
+},
+["BW82"]={
+ name="Deoxys-EX",
+ GMN="00386003",
+ typ="55",
+ rar="P",
+ ID=5699
+},
+["BW83"]={
+ name="Lugia-EX",
+ GMN="00249003",
+ typ="121",
+ rar="P",
+ ID=5700
+},
+["BW84"]={
+ name="Porygon-Z",
+ GMN="00137700",
+ typ="121",
+ rar="P",
+ ID=5701
+},
+["BW85"]={
+ name="Lucario",
+ GMN="00448000",
+ typ="66",
+ rar="P",
+ ID=5702
+},
+["BW86"]={
+ name="Genesect",
+ GMN="00649000",
+ typ="11",
+ rar="P",
+ ID=5703
+},
+["BW87"]={
+ name="Leafeon",
+ GMN="00136300",
+ typ="11",
+ rar="P",
+ ID=5704
+},
+["BW88"]={
+ name="Flareon",
+ GMN="00136000",
+ typ="22",
+ rar="P",
+ ID=5705
+},
+["BW89"]={
+ name="Vaporeon",
+ GMN="00134000",
+ typ="33",
+ rar="P",
+ ID=5706
+},
+["BW90"]={
+ name="Glaceon",
+ GMN="00136400",
+ typ="33",
+ rar="P",
+ ID=5707
+},
+["BW91"]={
+ name="Jolteon",
+ GMN="00135000",
+ typ="44",
+ rar="P",
+ ID=5708
+},
+["BW92"]={
+ name="Espeon",
+ GMN="00136100",
+ typ="55",
+ rar="P",
+ ID=5709
+},
+["BW93"]={
+ name="Umbreon",
+ GMN="00136200",
+ typ="77",
+ rar="P",
+ ID=5710
+},
+["BW94"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121",
+ rar="P",
+ ID=5711
+},
+["BW95"]={
+ name="Champions Festival",
+ GMN="50000000",
+ typ="500",
+ rar="P",
+ ID=5712
+},
+["BW96"]={
+ name="Tornadus-EX",
+ GMN="00641003",
+ typ="121",
+ rar="P",
+ ID=5713
+},
+["BW97"]={
+ name="Eevee",
+ GMN="00133000",
+ typ="121",
+ rar="P",
+ ID=5714
+},
+["BW98"]={
+ name="Mew",
+ GMN="00151000",
+ typ="55",
+ rar="P",
+ ID=5715
+},
+["BW99"]={
+ name="Genesect",
+ GMN="00649000",
+ typ="11",
+ rar="P",
+ ID=5716
+},
+["BW100"]={
+ name="N",
+ GMN="40000000",
+ typ="500",
+ rar="P",
+ ID=5717
+},
+["BW101"]={
+ name="Genesect",
+ GMN="00649000",
+ typ="11",
+ rar="P",
+ ID=5718
+}}

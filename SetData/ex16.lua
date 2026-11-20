@@ -1,0 +1,696 @@
+art={"1890974789081510696/164BD3E1D51A47A24A8333AF58CCC6FA807219B0",
+ "1890974789081515704/39F8C3611F9A08725812517927CE2F81EFC33413",
+ "1890974789081510256/564CF8B164DEF0D574B3662D4F058E82B0917196",
+ "1890974789081496178/19149B2F78177CE7F408D3F2233DFE921709F6D0"
+}
+setName="Power Keepers"
+DeckID=3446
+date="20070202"
+setID="ex16"
+dropSlots=[[{
+--1 U
+  {cards={{'26','41'},{'71','83'},'90','91'},num=2,size=31},
+--2 star
+  {cards={{'100','102'}},num=0,size=3},
+--3 ex
+  {cards={{'92','99'}},num=0,size=8},
+--4 RH
+  {cards={{'1','13'}},num=0,size=13},
+--5 R
+  {cards={{'14','25'},{'87','89'}},num=0,size=15},
+--6 energy
+  {cards={{'103','108'}},num=0,size=6,energy=true},
+--7 rev
+  {cards={{'1','91'}},num=0,size=91},
+--8 C
+  {cards={{'42','70'},{'84','86'}},num=5,size=32},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=2,odds=1/36},--star
+  {slot=3,odds=1/8},--ex
+  {slot=4,remaining=true,odds=1/3},--RH
+  {slot=5}--R
+ },num=1},
+--rev
+ {rates={
+  {slot=6,odds=1/4},--energy
+  {slot=7}--rev
+ },num=1}
+}]]
+
+cardString=[[
+cardData={["1"]={
+ name="Aggron",
+ GMN="00306000",
+ typ="88",
+ rar="RH"
+},
+["2"]={
+ name="Altaria",
+ GMN="00334000",
+ typ="121",
+ rar="RH"
+},
+["3"]={
+ name="Armaldo",
+ GMN="00348000",
+ typ="66",
+ rar="RH"
+},
+["4"]={
+ name="Banette",
+ GMN="00354000",
+ typ="55",
+ rar="RH"
+},
+["5"]={
+ name="Blaziken",
+ GMN="00257000",
+ typ="22",
+ rar="RH"
+},
+["6"]={
+ name="Charizard",
+ GMN="00006000",
+ typ="22",
+ rar="RH"
+},
+["7"]={
+ name="Cradily",
+ GMN="00346000",
+ typ="11",
+ rar="RH"
+},
+["8"]={
+ name="Delcatty",
+ GMN="00301000",
+ typ="121",
+ rar="RH"
+},
+["9"]={
+ name="Gardevoir",
+ GMN="00282000",
+ typ="55",
+ rar="RH"
+},
+["10"]={
+ name="Kabutops",
+ GMN="00141000",
+ typ="66",
+ rar="RH"
+},
+["11"]={
+ name="Machamp",
+ GMN="00068000",
+ typ="66",
+ rar="RH"
+},
+["12"]={
+ name="Raichu",
+ GMN="00026000",
+ typ="44",
+ rar="RH"
+},
+["13"]={
+ name="Slaking",
+ GMN="00289000",
+ typ="121",
+ rar="RH"
+},
+["14"]={
+ name="Dusclops",
+ GMN="00356000",
+ typ="55",
+ rar="R"
+},
+["15"]={
+ name="Lanturn",
+ GMN="00171000",
+ typ="44",
+ rar="R"
+},
+["16"]={
+ name="Magneton",
+ GMN="00082000",
+ typ="44",
+ rar="R"
+},
+["17"]={
+ name="Mawile",
+ GMN="00303000",
+ typ="88",
+ rar="R"
+},
+["18"]={
+ name="Mightyena",
+ GMN="00262000",
+ typ="77",
+ rar="R"
+},
+["19"]={
+ name="Ninetales",
+ GMN="00038000",
+ typ="22",
+ rar="R"
+},
+["20"]={
+ name="Omastar",
+ GMN="00139000",
+ typ="33",
+ rar="R"
+},
+["21"]={
+ name="Pichu",
+ GMN="00024500",
+ typ="44",
+ rar="R"
+},
+["22"]={
+ name="Sableye",
+ GMN="00302000",
+ typ="55",
+ rar="R"
+},
+["23"]={
+ name="Seviper",
+ GMN="00336000",
+ typ="11",
+ rar="R"
+},
+["24"]={
+ name="Wobbuffet",
+ GMN="00202000",
+ typ="55",
+ rar="R"
+},
+["25"]={
+ name="Zangoose",
+ GMN="00335000",
+ typ="121",
+ rar="R"
+},
+["26"]={
+ name="Anorith",
+ GMN="00347000",
+ typ="66",
+ rar="U"
+},
+["27"]={
+ name="Cacturne",
+ GMN="00332000",
+ typ="77",
+ rar="U"
+},
+["28"]={
+ name="Charmeleon",
+ GMN="00005000",
+ typ="22",
+ rar="U"
+},
+["29"]={
+ name="Combusken",
+ GMN="00256000",
+ typ="22",
+ rar="U"
+},
+["30"]={
+ name="Glalie",
+ GMN="00362000",
+ typ="33",
+ rar="U"
+},
+["31"]={
+ name="Kirlia",
+ GMN="00281000",
+ typ="55",
+ rar="U"
+},
+["32"]={
+ name="Lairon",
+ GMN="00305000",
+ typ="88",
+ rar="U"
+},
+["33"]={
+ name="Machoke",
+ GMN="00067000",
+ typ="66",
+ rar="U"
+},
+["34"]={
+ name="Medicham",
+ GMN="00308000",
+ typ="66",
+ rar="U"
+},
+["35"]={
+ name="Metang",
+ GMN="00375000",
+ typ="88",
+ rar="U"
+},
+["36"]={
+ name="Nuzleaf",
+ GMN="00274000",
+ typ="77",
+ rar="U"
+},
+["37"]={
+ name="Sealeo",
+ GMN="00364000",
+ typ="33",
+ rar="U"
+},
+["38"]={
+ name="Sharpedo",
+ GMN="00319000",
+ typ="77",
+ rar="U"
+},
+["39"]={
+ name="Shelgon",
+ GMN="00372000",
+ typ="121",
+ rar="U"
+},
+["40"]={
+ name="Vibrava",
+ GMN="00329000",
+ typ="121",
+ rar="U"
+},
+["41"]={
+ name="Vigoroth",
+ GMN="00288000",
+ typ="121",
+ rar="U"
+},
+["42"]={
+ name="Aron",
+ GMN="00304000",
+ typ="88",
+ rar="C"
+},
+["43"]={
+ name="Bagon",
+ GMN="00371000",
+ typ="121",
+ rar="C"
+},
+["44"]={
+ name="Baltoy",
+ GMN="00343000",
+ typ="55",
+ rar="C"
+},
+["45"]={
+ name="Beldum",
+ GMN="00374000",
+ typ="88",
+ rar="C"
+},
+["46"]={
+ name="Cacnea",
+ GMN="00331000",
+ typ="11",
+ rar="C"
+},
+["47"]={
+ name="Carvanha",
+ GMN="00318000",
+ typ="77",
+ rar="C"
+},
+["48"]={
+ name="Charmander",
+ GMN="00004000",
+ typ="22",
+ rar="C"
+},
+["49"]={
+ name="Chinchou",
+ GMN="00170000",
+ typ="44",
+ rar="C"
+},
+["50"]={
+ name="Duskull",
+ GMN="00355000",
+ typ="55",
+ rar="C"
+},
+["51"]={
+ name="Kabuto",
+ GMN="00140000",
+ typ="66",
+ rar="C"
+},
+["52"]={
+ name="Lileep",
+ GMN="00345000",
+ typ="11",
+ rar="C"
+},
+["53"]={
+ name="Machop",
+ GMN="00066000",
+ typ="66",
+ rar="C"
+},
+["54"]={
+ name="Magnemite",
+ GMN="00081000",
+ typ="44",
+ rar="C"
+},
+["55"]={
+ name="Meditite",
+ GMN="00307000",
+ typ="66",
+ rar="C"
+},
+["56"]={
+ name="Omanyte",
+ GMN="00138000",
+ typ="33",
+ rar="C"
+},
+["57"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="C"
+},
+["58"]={
+ name="Poochyena",
+ GMN="00261000",
+ typ="77",
+ rar="C"
+},
+["59"]={
+ name="Ralts",
+ GMN="00280000",
+ typ="55",
+ rar="C"
+},
+["60"]={
+ name="Seedot",
+ GMN="00273000",
+ typ="11",
+ rar="C"
+},
+["61"]={
+ name="Shuppet",
+ GMN="00353000",
+ typ="55",
+ rar="C"
+},
+["62"]={
+ name="Skitty",
+ GMN="00300000",
+ typ="121",
+ rar="C"
+},
+["63"]={
+ name="Slakoth",
+ GMN="00287000",
+ typ="121",
+ rar="C"
+},
+["64"]={
+ name="Snorunt",
+ GMN="00361000",
+ typ="33",
+ rar="C"
+},
+["65"]={
+ name="Spheal",
+ GMN="00363000",
+ typ="33",
+ rar="C"
+},
+["66"]={
+ name="Swablu",
+ GMN="00333000",
+ typ="121",
+ rar="C"
+},
+["67"]={
+ name="Torchic",
+ GMN="00255000",
+ typ="22",
+ rar="C"
+},
+["68"]={
+ name="Trapinch",
+ GMN="00328000",
+ typ="66",
+ rar="C"
+},
+["69"]={
+ name="Vulpix",
+ GMN="00037000",
+ typ="22",
+ rar="C"
+},
+["70"]={
+ name="Wynaut",
+ GMN="00201500",
+ typ="55",
+ rar="C"
+},
+["71"]={
+ name="Battle Frontier",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["72"]={
+ name="Drake's Stadium",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["73"]={
+ name="Energy Recycle System",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["74"]={
+ name="Energy Removal 2",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["75"]={
+ name="Energy Switch",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["76"]={
+ name="Glacia's Stadium",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["77"]={
+ name="Great Ball",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["78"]={
+ name="Master Ball",
+ GMN="30000000",
+ typ="500",
+ rar="U"
+},
+["79"]={
+ name="Phoebe's Stadium",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["80"]={
+ name="Professor Birch",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["81"]={
+ name="Scott",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["82"]={
+ name="Sidney's Stadium",
+ GMN="50000000",
+ typ="500",
+ rar="U"
+},
+["83"]={
+ name="Steven's Advice",
+ GMN="40000000",
+ typ="500",
+ rar="U"
+},
+["84"]={
+ name="Claw Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["85"]={
+ name="Mysterious Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["86"]={
+ name="Root Fossil",
+ GMN="30000000",
+ typ="500",
+ rar="C"
+},
+["87"]={
+ name="Darkness Energy",
+ GMN="80000000",
+ typ="500",
+ rar="R"
+},
+["88"]={
+ name="Metal Energy",
+ GMN="80000000",
+ typ="500",
+ rar="R"
+},
+["89"]={
+ name="Multi Energy",
+ GMN="80000000",
+ typ="500",
+ rar="R"
+},
+["90"]={
+ name="Cyclone Energy",
+ GMN="80000000",
+ typ="500",
+ rar="U"
+},
+["91"]={
+ name="Warp Energy",
+ GMN="80000000",
+ typ="500",
+ rar="U"
+},
+["92"]={
+ name="Absol ex",
+ GMN="00359000",
+ typ="77",
+ rar="RHEX"
+},
+["93"]={
+ name="Claydol ex",
+ GMN="00344000",
+ typ="55",
+ rar="RHEX"
+},
+["94"]={
+ name="Flygon ex",
+ GMN="00330000",
+ typ="121",
+ rar="RHEX"
+},
+["95"]={
+ name="Metagross ex",
+ GMN="00376000",
+ typ="88",
+ rar="RHEX"
+},
+["96"]={
+ name="Salamence ex",
+ GMN="00373000",
+ typ="121",
+ rar="RHEX"
+},
+["97"]={
+ name="Shiftry ex",
+ GMN="00275000",
+ typ="77",
+ rar="RHEX"
+},
+["98"]={
+ name="Skarmory ex",
+ GMN="00227000",
+ typ="88",
+ rar="RHEX"
+},
+["99"]={
+ name="Walrein ex",
+ GMN="00365000",
+ typ="33",
+ rar="RHEX"
+},
+["100"]={
+ name="Flareon ★",
+ GMN="00136000",
+ typ="22",
+ rar="RHS"
+},
+["101"]={
+ name="Jolteon ★",
+ GMN="00135000",
+ typ="44",
+ rar="RHS"
+},
+["102"]={
+ name="Vaporeon ★",
+ GMN="00134000",
+ typ="33",
+ rar="RHS"
+},
+["103"]={
+ name="Grass Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+},
+["104"]={
+ name="Fire Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+},
+["105"]={
+ name="Water Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+},
+["106"]={
+ name="Lightning Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+},
+["107"]={
+ name="Psychic Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+},
+["108"]={
+ name="Fighting Energy",
+ GMN="90000000",
+ typ="500",
+ rar="RH"
+}}
+]]
+
+
+energyString="energy={}"
+

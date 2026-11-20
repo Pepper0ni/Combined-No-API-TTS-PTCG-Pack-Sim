@@ -1,0 +1,129 @@
+art={"1890974789082762267/C3333D89A9BD7724A59049F3377A773F38E0B22C"
+}
+setName="POP Series 6"
+DeckID=3881
+date="20070901"
+setID="pop6"
+noBox=true
+dropSlots=[[{
+--1 R
+  {cards={{'1','5'}},num=1,size=5},
+--2 U
+  {cards={{'6','10'}},num=0,size=5},
+--3 C
+  {cards={{'11','17'}},num=0,size=7},
+}]]
+pullRates=[[{
+--unc
+ {rates={
+  {slot=2,odds=0.1355},--U
+  {slot=3}--C
+ },num=1}
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Bastiodon",
+ GMN="00411000",
+ typ="88",
+ rar="R"
+},
+["2"]={
+ name="Lucario",
+ GMN="00448000",
+ typ="66",
+ rar="R"
+},
+["3"]={
+ name="Manaphy",
+ GMN="00490000",
+ typ="33",
+ rar="R"
+},
+["4"]={
+ name="Pachirisu",
+ GMN="00417000",
+ typ="44",
+ rar="R"
+},
+["5"]={
+ name="Rampardos",
+ GMN="00409000",
+ typ="66",
+ rar="R"
+},
+["6"]={
+ name="Drifloon",
+ GMN="00425000",
+ typ="55",
+ rar="U"
+},
+["7"]={
+ name="Gible",
+ GMN="00443000",
+ typ="121",
+ rar="U"
+},
+["8"]={
+ name="Riolu",
+ GMN="00447000",
+ typ="66",
+ rar="U"
+},
+["9"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="U"
+},
+["10"]={
+ name="Staravia",
+ GMN="00397000",
+ typ="121",
+ rar="U"
+},
+["11"]={
+ name="Bidoof",
+ GMN="00399000",
+ typ="121",
+ rar="C"
+},
+["12"]={
+ name="Buneary",
+ GMN="00427000",
+ typ="121",
+ rar="C"
+},
+["13"]={
+ name="Cherubi",
+ GMN="00420000",
+ typ="11",
+ rar="C"
+},
+["14"]={
+ name="Chimchar",
+ GMN="00390000",
+ typ="22",
+ rar="C"
+},
+["15"]={
+ name="Piplup",
+ GMN="00393000",
+ typ="33",
+ rar="C"
+},
+["16"]={
+ name="Starly",
+ GMN="00396000",
+ typ="121",
+ rar="C"
+},
+["17"]={
+ name="Turtwig",
+ GMN="00387000",
+ typ="11",
+ rar="C"
+}}
+]]
+
+energyString="energy={}"
+

@@ -1,0 +1,64 @@
+setName="Trainer Kit EX Plusle"
+DeckID=3093
+date="20060301"
+setID="tk2a"
+cardData={["1"]={
+ name="Beldum",
+ GMN="00374000",
+ typ="55"
+},
+["2"]={
+ name="Electrike",
+ GMN="00309000",
+ typ="44"
+},
+["3"]={
+ name="Grumpig",
+ GMN="00326000",
+ typ="55"
+},
+["4"]={
+ name="Meowth",
+ GMN="00052000",
+ typ="121"
+},
+["5"]={
+ name="Metang",
+ GMN="00375000",
+ typ="55"
+},
+["6"]={
+ name="Plusle",
+ GMN="00311000",
+ typ="44"
+},
+["7"]={
+ name="Spoink",
+ GMN="00325000",
+ typ="55"
+},
+["8"]={
+ name="Energy Search",
+ GMN="30000000",
+ typ="500"
+},
+["9"]={
+ name="Potion",
+ GMN="30000000",
+ typ="500"
+},
+["10"]={
+ name="Professor Cozmo's Discovery",
+ GMN="40000000",
+ typ="500"
+},
+["11"]={
+ name="Lightning Energy",
+ GMN="90000000",
+ typ="500"
+},
+["12"]={
+ name="Psychic Energy",
+ GMN="90000000",
+ typ="500"
+}}

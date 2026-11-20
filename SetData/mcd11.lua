@@ -1,0 +1,64 @@
+setName="McDonald's Collection 2011"
+DeckID=5833
+date="20110617"
+setID="mcd11"
+cardData={["1"]={
+ name="Snivy",
+ GMN="00495000",
+ typ="11"
+},
+["2"]={
+ name="Maractus",
+ GMN="00556000",
+ typ="11"
+},
+["3"]={
+ name="Tepig",
+ GMN="00498000",
+ typ="22"
+},
+["4"]={
+ name="Oshawott",
+ GMN="00501000",
+ typ="33"
+},
+["5"]={
+ name="Alomomola",
+ GMN="00594000",
+ typ="33"
+},
+["6"]={
+ name="Blitzle",
+ GMN="00522000",
+ typ="44"
+},
+["7"]={
+ name="Munna",
+ GMN="00517000",
+ typ="55"
+},
+["8"]={
+ name="Sandile",
+ GMN="00551000",
+ typ="66"
+},
+["9"]={
+ name="Zorua",
+ GMN="00570000",
+ typ="77"
+},
+["10"]={
+ name="Klink",
+ GMN="00599000",
+ typ="88"
+},
+["11"]={
+ name="Pidove",
+ GMN="00519000",
+ typ="121"
+},
+["12"]={
+ name="Audino",
+ GMN="00531000",
+ typ="121"
+}}

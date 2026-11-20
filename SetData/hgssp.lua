@@ -1,0 +1,179 @@
+setName="HGSS Black Star Promos"
+DeckID=5072
+date="20100210"
+setID="hsp"
+cardData={["HGSS01"]={
+ name="Ho-Oh",
+ GMN="00250000",
+ typ="22",
+ rar="P",
+ ID=5073
+},
+["HGSS02"]={
+ name="Lugia",
+ GMN="00249000",
+ typ="33",
+ rar="P",
+ ID=5074
+},
+["HGSS03"]={
+ name="Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="P",
+ ID=5075
+},
+["HGSS04"]={
+ name="Wobbuffet",
+ GMN="00202000",
+ typ="55",
+ rar="P",
+ ID=5076
+},
+["HGSS05"]={
+ name="Hoothoot",
+ GMN="00163000",
+ typ="121",
+ rar="P",
+ ID=5077
+},
+["HGSS06"]={
+ name="Noctowl",
+ GMN="00164000",
+ typ="121",
+ rar="P",
+ ID=5078
+},
+["HGSS07"]={
+ name="Feraligatr",
+ GMN="00160000",
+ typ="33",
+ rar="P",
+ ID=5079
+},
+["HGSS08"]={
+ name="Meganium",
+ GMN="00154000",
+ typ="11",
+ rar="P",
+ ID=5080
+},
+["HGSS09"]={
+ name="Typhlosion",
+ GMN="00157000",
+ typ="22",
+ rar="P",
+ ID=5081
+},
+["HGSS10"]={
+ name="Latias",
+ GMN="00380000",
+ typ="121",
+ rar="P",
+ ID=5082
+},
+["HGSS11"]={
+ name="Latios",
+ GMN="00381000",
+ typ="121",
+ rar="P",
+ ID=5083
+},
+["HGSS12"]={
+ name="Cleffa",
+ GMN="00034500",
+ typ="121",
+ rar="P",
+ ID=5084
+},
+["HGSS13"]={
+ name="Smoochum",
+ GMN="00123700",
+ typ="55",
+ rar="P",
+ ID=5085
+},
+["HGSS14"]={
+ name="Lapras",
+ GMN="00131000",
+ typ="33",
+ rar="P",
+ ID=5086
+},
+["HGSS15"]={
+ name="Shuckle",
+ GMN="00213000",
+ typ="66",
+ rar="P",
+ ID=5087
+},
+["HGSS16"]={
+ name="Plusle",
+ GMN="00311000",
+ typ="44",
+ rar="P",
+ ID=5088
+},
+["HGSS17"]={
+ name="Minun",
+ GMN="00312000",
+ typ="44",
+ rar="P",
+ ID=5089
+},
+["HGSS18"]={
+ name="Tropical Tidal Wave",
+ GMN="30000000",
+ typ="500",
+ rar="P",
+ ID=5090
+},
+["HGSS19"]={
+ name="Raikou",
+ GMN="00243000",
+ typ="44",
+ rar="P",
+ ID=5091
+},
+["HGSS20"]={
+ name="Entei",
+ GMN="00244000",
+ typ="22",
+ rar="P",
+ ID=5092
+},
+["HGSS21"]={
+ name="Suicune",
+ GMN="00245000",
+ typ="33",
+ rar="P",
+ ID=5093
+},
+["HGSS22"]={
+ name="Porygon",
+ GMN="00137000",
+ typ="121",
+ rar="P",
+ ID=5094
+},
+["HGSS23"]={
+ name="Porygon2",
+ GMN="00137300",
+ typ="121",
+ rar="P",
+ ID=5095
+},
+["HGSS24"]={
+ name="Hitmonchan",
+ GMN="00107000",
+ typ="66",
+ rar="P",
+ ID=5096
+},
+["HGSS25"]={
+ name="Hitmonlee",
+ GMN="00106000",
+ typ="66",
+ rar="P",
+ ID=5097
+}}

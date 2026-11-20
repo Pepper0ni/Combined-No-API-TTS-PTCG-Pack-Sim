@@ -1,0 +1,134 @@
+art={"1890974789082362853/65B60C254E9E4419BEF99BF422853F2E664233EF"
+}
+setName="POP Series 1"
+DeckID=2364
+date="20040901"
+setID="pop1"
+noBox=true
+dropSlots=[[{
+--1 R
+  {cards={{'1','5'},'16','17'},num=0,size=7},
+--2 U
+  {cards={{'6','10'}},num=0,size=5},
+--3 C
+  {cards={{'11','15'}},num=0,size=5},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/8.8},--R
+  {slot=3}--C
+ },num=1},
+--unc
+ {rates={
+  {slot=2,odds=0.31},--U
+  {slot=3}--C
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Blaziken",
+ GMN="00257000",
+ typ="22",
+ rar="R"
+},
+["2"]={
+ name="Metagross",
+ GMN="00376000",
+ typ="88",
+ rar="R"
+},
+["3"]={
+ name="Rayquaza",
+ GMN="00384000",
+ typ="121",
+ rar="R"
+},
+["4"]={
+ name="Sceptile",
+ GMN="00254000",
+ typ="11",
+ rar="R"
+},
+["5"]={
+ name="Swampert",
+ GMN="00260000",
+ typ="33",
+ rar="R"
+},
+["6"]={
+ name="Beautifly",
+ GMN="00267000",
+ typ="11",
+ rar="U"
+},
+["7"]={
+ name="Masquerain",
+ GMN="00284000",
+ typ="11",
+ rar="U"
+},
+["8"]={
+ name="Murkrow",
+ GMN="00198000",
+ typ="77",
+ rar="U"
+},
+["9"]={
+ name="Pupitar",
+ GMN="00247000",
+ typ="66",
+ rar="U"
+},
+["10"]={
+ name="Torkoal",
+ GMN="00324000",
+ typ="66",
+ rar="U"
+},
+["11"]={
+ name="Larvitar",
+ GMN="00246000",
+ typ="66",
+ rar="C"
+},
+["12"]={
+ name="Minun",
+ GMN="00312000",
+ typ="44",
+ rar="C"
+},
+["13"]={
+ name="Plusle",
+ GMN="00311000",
+ typ="44",
+ rar="C"
+},
+["14"]={
+ name="Surskit",
+ GMN="00283000",
+ typ="33",
+ rar="C"
+},
+["15"]={
+ name="Swellow",
+ GMN="00277000",
+ typ="121",
+ rar="C"
+},
+["16"]={
+ name="Armaldo ex",
+ GMN="00348000",
+ typ="66",
+ rar="R"
+},
+["17"]={
+ name="Tyranitar ex",
+ GMN="00248000",
+ typ="77",
+ rar="R"
+}}
+]]
+
+energyString="energy={}"
+

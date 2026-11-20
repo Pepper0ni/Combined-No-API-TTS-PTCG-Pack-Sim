@@ -1,0 +1,135 @@
+art={"1890974789081463020/D5B0402C47B2D6F2DEABB353DBB3A91683990A53"
+}
+setName="Detective Pikachu"
+DeckID=11046
+date="20190405"
+setID="det1"
+noBox=true
+dropSlots=[[{
+--1 white star
+  {cards={'5','9','12','17'},num=0},
+--2 black star
+  {cards={'2','6','10','11','13','18'},num=0},
+--3 C
+  {cards={'1','3','4','7','8','14','15','16'},num=3},
+}]]
+pullRates=[[{
+--rare
+ {rates={
+  {slot=1,odds=1/2.7},--white star
+  {slot=2}--black star
+ },num=1},
+}]]
+cardString=[[
+cardData={["1"]={
+ name="Bulbasaur",
+ GMN="00001000",
+ typ="11",
+ rar="C"
+},
+["2"]={
+ name="Ludicolo",
+ GMN="00272000",
+ typ="11",
+ rar="R"
+},
+["3"]={
+ name="Morelull",
+ GMN="00755000",
+ typ="11",
+ rar="C"
+},
+["4"]={
+ name="Charmander",
+ GMN="00004000",
+ typ="22",
+ rar="C"
+},
+["5"]={
+ name="Charizard",
+ GMN="00006000",
+ typ="22",
+ rar="RU"
+},
+["6"]={
+ name="Arcanine",
+ GMN="00059000",
+ typ="22",
+ rar="R"
+},
+["7"]={
+ name="Psyduck",
+ GMN="00054000",
+ typ="33",
+ rar="C"
+},
+["8"]={
+ name="Magikarp",
+ GMN="00129000",
+ typ="33",
+ rar="C"
+},
+["9"]={
+ name="Greninja",
+ GMN="00658000",
+ typ="33",
+ rar="RU"
+},
+["10"]={
+ name="Detective Pikachu",
+ GMN="00025000",
+ typ="44",
+ rar="R"
+},
+["11"]={
+ name="Mr. Mime",
+ GMN="00122000",
+ typ="55",
+ rar="R"
+},
+["12"]={
+ name="Mewtwo",
+ GMN="00150000",
+ typ="55",
+ rar="RU"
+},
+["13"]={
+ name="Machamp",
+ GMN="00068000",
+ typ="66",
+ rar="R"
+},
+["14"]={
+ name="Jigglypuff",
+ GMN="00039000",
+ typ="99",
+ rar="C"
+},
+["15"]={
+ name="Snubbull",
+ GMN="00209000",
+ typ="99",
+ rar="C"
+},
+["16"]={
+ name="Lickitung",
+ GMN="00108000",
+ typ="121",
+ rar="C"
+},
+["17"]={
+ name="Ditto",
+ GMN="00132000",
+ typ="121",
+ rar="RU"
+},
+["18"]={
+ name="Slaking",
+ GMN="00289000",
+ typ="121",
+ rar="R"
+}}
+]]
+
+energyString="energy={}"
+
